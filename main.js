@@ -6,11 +6,20 @@ let gridApi;
 // Grid Options: Contains all of the grid configurations
 const gridOptions = {
   pagination: true,
+  rowSelection: {
+        mode: 'multiRow',
+        copySelectedRows: true
+    },
   // Data to be displayed
   rowData: [], 
   // Columns to be displayed (Should match rowData properties)
   columnDefs: [
-    { field: "doi" },
+    { field: "doi",
+    cellRenderer: params => {
+      if (!params.value) return '';
+      const url = 'https://doi.org/' + params.value;
+      return `<a href="${url}" target="_blank" rel="noopener noreferrer">${params.value}</a>`;
+    } },
     { field: "clientId", filter: true, floatingFilter: true  },
     { field: "publicationYear", filter: true, floatingFilter: true  },
     { field: "resourceType", filter: true, floatingFilter: true  },
