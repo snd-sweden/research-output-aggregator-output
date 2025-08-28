@@ -1,5 +1,14 @@
 #!/bin/bash
-git clone https://github.com/snd-sweden/research-output-aggregator
+
+# Clone the research-output-aggregator repository if not present
+if [ ! -d "research-output-aggregator" ]; then
+    echo "Directory research-output-aggregator not found, cloning repository..."
+    git clone https://github.com/snd-sweden/research-output-aggregator
+else
+    echo "Directory research-output-aggregator exists, pulling latest changes..."
+    (cd research-output-aggregator && git pull)
+fi
+
 
 DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 TSV="$DIR/organisations.tsv"
