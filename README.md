@@ -1,5 +1,6 @@
-# research-output-aggregator-output
-CSV outputs from research-output-aggregator for organisations in the SND network
+# Research Output Aggregator outputs for the SND Network
+CSV outputs from research-output-aggregator for organisations in the SND network.  
+The data is availible as a combined csv-file and csv-files for each organisation.  
 
 ## Run
 To run the script to fetch CSV outputs for all organisations in the SND network ([organisations.tsv](organisations.tsv)):  
