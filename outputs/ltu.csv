@@ -11,14 +11,21 @@ doi,clientId,publicationYear,resourceType,title,publisher,isPublisher,haveCreato
 10.13140/rg.2.1.5033.6406,rg.rg,2015,article,Steel truss exposed to localized fires,Luleå University of Technology,1,0,0,1,0
 10.5281/zenodo.53766,cern.zenodo,2016,article,nri: N-way Random Indexing,Zenodo,0,1,0,1,0
 10.13140/rg.2.2.27434.00961,rg.rg,2016,article-journal,A brief design review of lunar bases,Luleå University of Technology,1,0,0,1,0
+10.7910/dvn/dphuco,gdcc.harvard-dv,2017,dataset,Policy convergence as a multi-faceted concept: The case of renewable energy policies in the EU,Harvard Dataverse,0,1,1,1,0
 10.17172/nomad/2017.10.16-1,tib.hu,2017,article,NOMAD Repository Entry,NOMAD Repository,0,1,0,1,0
 10.17172/nomad/2017.10.17-1,tib.hu,2017,article,NOMAD Repository Entry,NOMAD Repository,0,1,0,1,0
 10.17172/nomad/2017.10.17-2,tib.hu,2017,article,NOMAD Repository Entry,NOMAD Repository,0,1,0,1,0
 10.17172/nomad/2017.10.23-1,tib.hu,2017,article,NOMAD Repository Entry,NOMAD Repository,0,1,0,1,0
+10.5281/zenodo.1095503,cern.zenodo,2017,dataset,Leighfletcher/Hydrogendimers: Hydrogen Dimers In Giant-Planet Infrared Spectra,Zenodo,0,1,0,1,0
+10.5281/zenodo.1095502,cern.zenodo,2017,dataset,Leighfletcher/Hydrogendimers: Hydrogen Dimers In Giant-Planet Infrared Spectra,Zenodo,0,1,0,0,1
+10.5281/zenodo.1134196,cern.zenodo,2017,article,A Novel Approach To Surface Operations With Multirotor Uavs,Zenodo,0,1,0,1,0
+10.5281/zenodo.1134195,cern.zenodo,2017,article,A Novel Approach To Surface Operations With Multirotor Uavs,Zenodo,0,1,0,0,1
 10.13140/rg.2.2.24021.12004,rg.rg,2015,article-journal,E2MPi - Improved energy efficiency by flow induced and ultrasound controlled cavitation,Luleå University of Technology,1,0,0,1,0
 10.5878/j68g-ma62,snd.snd,1995,dataset,Esbo youth survey 1984,Luleå University of Technology,1,0,0,1,0
 10.17172/nomad/2018.12.04-1,tib.hu,2018,article,NOMAD Repository Entry,NOMAD Repository,0,1,0,1,0
 10.7910/dvn/pbalme,gdcc.harvard-dv,2018,dataset,Replication Data for: Savings revisited. A replication study of savings intervention in Malawi,Harvard Dataverse,0,1,0,1,0
+10.5281/zenodo.1477238,cern.zenodo,2018,article-journal,Towards MAV Navigation in Underground Mine Using Deep Learning,Zenodo,0,1,0,1,0
+10.5281/zenodo.1477237,cern.zenodo,2018,article-journal,Towards MAV Navigation in Underground Mine Using Deep Learning,Zenodo,0,1,0,0,1
 10.13140/rg.2.2.15730.56009,rg.rg,2019,article-journal,"Reflection of the document on the student' guide by Faramarz Helali Reflection of the document on the student' guide based on, the Course of Basic Macroergonomics &amp; Applied Macroergonomics by",Luleå University of Technology,1,0,0,1,0
 10.13140/rg.2.2.15705.57448,rg.rg,2001,article-journal,"Elfgren - Noghabai (2001) Tension of RC Prisms, RILEM TC147-FMB",Luleå University of Technology,1,0,0,1,0
 10.5281/zenodo.3384904,cern.zenodo,2016,article-journal,"Cultural Citizenship through aesthetic communication in Swedish schools - democracy, inclusion and equality in the face of assessment policies",Zenodo,0,1,0,1,0
@@ -40,8 +47,14 @@ doi,clientId,publicationYear,resourceType,title,publisher,isPublisher,haveCreato
 10.5281/zenodo.3718458,cern.zenodo,2020,article,Cave world,Zenodo,0,1,0,0,1
 10.5281/zenodo.3884556,cern.zenodo,2019,article-journal,Online Multi-Agent Based Cooperative Exploration and Coverage in Complex Environment,Zenodo,0,1,0,1,0
 10.5281/zenodo.3884555,cern.zenodo,2019,article-journal,Online Multi-Agent Based Cooperative Exploration and Coverage in Complex Environment,Zenodo,0,1,0,0,1
+10.5281/zenodo.3884636,cern.zenodo,2020,article-journal,MAV Navigation in Unknown Dark Underground Mines Using Deep Learning,Zenodo,0,1,0,1,0
+10.5281/zenodo.3884635,cern.zenodo,2020,article-journal,MAV Navigation in Unknown Dark Underground Mines Using Deep Learning,Zenodo,0,1,0,0,1
 10.5281/zenodo.3884721,cern.zenodo,2020,article-journal,Non-linear MPC based Navigation for Micro Aerial Vehicles in Constrained Environments,Zenodo,0,1,0,1,0
 10.5281/zenodo.3884720,cern.zenodo,2020,article-journal,Non-linear MPC based Navigation for Micro Aerial Vehicles in Constrained Environments,Zenodo,0,1,0,0,1
+10.5281/zenodo.3884763,cern.zenodo,2020,article-journal,Unsupervised Learning for Subterranean Junction Recognition Based on 2D Point Cloud,Zenodo,0,1,0,1,0
+10.5281/zenodo.3884762,cern.zenodo,2020,article-journal,Unsupervised Learning for Subterranean Junction Recognition Based on 2D Point Cloud,Zenodo,0,1,0,0,1
+10.5281/zenodo.3884800,cern.zenodo,2020,article-journal,Subterranean MAV Navigation based on Nonlinear MPC with Collision Avoidance Constraints,Zenodo,0,1,0,1,0
+10.5281/zenodo.3884799,cern.zenodo,2020,article-journal,Subterranean MAV Navigation based on Nonlinear MPC with Collision Avoidance Constraints,Zenodo,0,1,0,0,1
 10.5281/zenodo.3923792,cern.zenodo,2020,article,icobro/PyHMA v1.1,Zenodo,0,1,0,1,0
 10.5281/zenodo.3923791,cern.zenodo,2020,article,icobro/PyHMA v1.1,Zenodo,0,1,0,0,1
 10.5061/dryad.2547d7wng,dryad.dryad,2020,dataset,Data from: Norway and Sweden Green Roof (GF) plant data,Dryad,0,1,0,1,0
@@ -57,11 +70,15 @@ doi,clientId,publicationYear,resourceType,title,publisher,isPublisher,haveCreato
 10.5281/zenodo.3928166,cern.zenodo,2020,article-journal,Towards Assisted Interactive Machine Learning: Exploring Gesture-Sound Mappings Using Reinforcement Learning,Zenodo,0,1,0,0,0
 10.5281/zenodo.4032416,cern.zenodo,2020,article-journal,ENGIE D 1.1 Report on baseline assessment,Zenodo,0,1,0,1,0
 10.5281/zenodo.4032415,cern.zenodo,2020,article-journal,ENGIE D 1.1 Report on baseline assessment,Zenodo,0,1,0,0,0
+10.5281/zenodo.4109904,cern.zenodo,2020,article-journal,Poster for theFrench-Swedish Research Day 2020,Zenodo,0,1,0,1,0
+10.5281/zenodo.4109903,cern.zenodo,2020,article-journal,Poster for theFrench-Swedish Research Day 2020,Zenodo,0,1,0,0,1
 10.5281/zenodo.4139801,cern.zenodo,2020,dataset,TIMES-Sweden Industry Database,Zenodo,0,1,0,1,0
 10.5281/zenodo.4139800,cern.zenodo,2022,dataset,TIMES-Sweden Industry Database,Zenodo,0,1,0,0,1
 10.5281/zenodo.4299797,cern.zenodo,2018,article-journal,A Philosophic Poetic Inquiry of Three Aspects of Interpretation within Music Education Research - An Autoethnodrama in Four Acts,Zenodo,0,1,0,1,0
 10.5281/zenodo.4299796,cern.zenodo,2018,article-journal,A Philosophic Poetic Inquiry of Three Aspects of Interpretation within Music Education Research - An Autoethnodrama in Four Acts,Zenodo,0,1,0,0,0
 10.5061/dryad.bvq83bk4w,dryad.dryad,2020,dataset,Vegetation cover and plant diversity on cold climate green roofs,Dryad,0,1,0,1,0
+10.5281/zenodo.4399135,cern.zenodo,2018,article-journal,A novel approach for the autonomous inspection and repair of aircraft composite structures,Zenodo,0,1,0,1,0
+10.5281/zenodo.4399134,cern.zenodo,2018,article-journal,A novel approach for the autonomous inspection and repair of aircraft composite structures,Zenodo,0,1,0,0,0
 10.5281/zenodo.4467495,cern.zenodo,2021,dataset,Measuring the distance and mass of galactic core-collapse supernovae using neutrinos,Zenodo,0,1,0,1,0
 10.5281/zenodo.4467494,cern.zenodo,2021,dataset,Measuring the distance and mass of galactic core-collapse supernovae using neutrinos,Zenodo,0,1,0,0,0
 10.5878/0qyf-ra32,snd.snd,2021,dataset,CHAQ2020 - Seymour Island - Drawings,University of Gothenburg,0,0,1,0,1
@@ -92,6 +109,7 @@ doi,clientId,publicationYear,resourceType,title,publisher,isPublisher,haveCreato
 10.5878/hkth-n566,snd.snd,2021,dataset,CHAQ2020 - Snow Hill Island - Spatial data,University of Gothenburg,0,0,1,0,1
 10.5878/c9ts-2d41,snd.snd,2021,dataset,CHAQ2020 - Snow Hill Island - Spatial data - CHAQ2020 - Snow Hill Island - Raw data,University of Gothenburg,0,0,1,1,0
 10.5878/6m3n-1124,snd.snd,2021,dataset,CHAQ2020 - Snow Hill Island - Spatial data,University of Gothenburg,0,0,1,1,0
+10.23729/6e74f321-dc7b-40f5-9391-07bd072ef086,csc.nrd,2020,dataset,GeoKT liberation preview,Jukka Kuva,0,1,0,1,0
 10.48448/4rwg-gy88,undsci.oopmau,2020,article,Hyperdimensional Representations in Semiotic Approach to AGI,Underline Science Inc.,0,1,0,1,0
 10.5878/23hr-9g54,snd.snd,2021,dataset,Snow ice particle microphysical properties and fall speed from particle images taken with the Dual Ice Crystal Imager (D-ICI) in Kiruna (Sweden) 2014–2018,Luleå University of Technology,1,1,0,0,1
 10.5878/dgak-p185,snd.snd,2021,dataset,Snow ice particle microphysical properties and fall speed from particle images taken with the Dual Ice Crystal Imager (D-ICI) in Kiruna (Sweden) 2014–2018,Luleå University of Technology,1,1,0,0,0
@@ -100,8 +118,11 @@ doi,clientId,publicationYear,resourceType,title,publisher,isPublisher,haveCreato
 10.5281/zenodo.5032473,cern.zenodo,2021,article-journal,Creep Behaviour of Densified Wood,Zenodo,0,1,0,1,0
 10.5281/zenodo.5032472,cern.zenodo,2021,article-journal,Creep Behaviour of Densified Wood,Zenodo,0,1,0,0,1
 10.13140/rg.2.2.29654.57927,rg.rg,2021,article-journal,God bebyggd miljö och tillgänglighet - en förstudie av planindikatorer i översiktlig planering,Luleå University of Technology,1,0,0,1,0
+10.24433/co.5177569.v1,ocean.ocean,2021,article,Estimation of gross calorific value based on coal analysis using an explainable artificial intelligence,Code Ocean,0,1,0,1,0
 10.5281/zenodo.5160358,cern.zenodo,2021,article-journal,"P4PLAY: RESEARCHING PEOPLE, PLACE , POLICY and PRACTICE for PLAY from the LENS of OCCUPATIONAL SCIENCE Oh' The Places You'll Go: Adventures Outdoors and in Digital Playgrounds",Zenodo,0,1,0,1,0
 10.5281/zenodo.5160357,cern.zenodo,2021,article-journal,"P4PLAY: RESEARCHING PEOPLE, PLACE , POLICY and PRACTICE for PLAY from the LENS of OCCUPATIONAL SCIENCE Oh' The Places You'll Go: Adventures Outdoors and in Digital Playgrounds",Zenodo,0,1,0,0,1
+10.23729/d74f92f8-90aa-4b85-97b5-534d13c9f0a7,csc.nrd,2021,dataset,Crushed Ore preview,Jukka Kuva,0,1,0,1,0
+10.23729/482b4145-e450-46f4-9f1d-f6ae02453ab0,csc.nrd,2021,dataset,Crushed Ore,Jukka Kuva,0,1,0,1,0
 10.5281/zenodo.5179957,cern.zenodo,2021,article-journal,"P4PLAY: RESEARCHING PEOPLE, PLACE, POLICY and PRACTICE for PLAY from the LENS of OCCUPATIONAL SCIENCE. Examining policy processes to facilitate play",Zenodo,0,1,0,1,0
 10.5281/zenodo.5179956,cern.zenodo,2021,article-journal,"P4PLAY: RESEARCHING PEOPLE, PLACE, POLICY and PRACTICE for PLAY from the LENS of OCCUPATIONAL SCIENCE. Examining policy processes to facilitate play",Zenodo,0,1,0,0,1
 10.5281/zenodo.5275438,cern.zenodo,2018,article-journal,"paperChain D05.1 - ""Implementation of Circular Case 5. Mining sector""",Zenodo,0,1,0,1,0
@@ -111,6 +132,8 @@ doi,clientId,publicationYear,resourceType,title,publisher,isPublisher,haveCreato
 10.17597/isas.darts/hyb2-00300,jaxa.jaxa,2021,dataset,Hayabusa2 Thermal Infrared Imager (TIR) Bundle,"Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency",0,1,0,1,0
 10.5281/zenodo.4911877,cern.zenodo,2020,article-journal,D1.1 Flexibility characterization and assessment methodologies,Zenodo,0,1,0,1,0
 10.5281/zenodo.4911876,cern.zenodo,2020,article-journal,D1.1 Flexibility characterization and assessment methodologies,Zenodo,0,1,0,0,0
+10.5281/zenodo.5557277,cern.zenodo,2021,article-journal,Enhancing lives through enabling participation: Children as active agents in their communities,Zenodo,0,1,0,1,0
+10.5281/zenodo.5557276,cern.zenodo,2021,article-journal,Enhancing lives through enabling participation: Children as active agents in their communities,Zenodo,0,1,0,0,1
 10.5281/zenodo.5702722,cern.zenodo,2021,dataset,TIMES-Sweden Industry Database,Zenodo,0,1,0,1,0
 10.5878/2dnq-5x15,snd.snd,2021,dataset,Snow ice particle microphysical properties and fall speed from particle images taken with the Dual Ice Crystal Imager (D-ICI) in Kiruna (Sweden) 2014–2018,Luleå University of Technology,1,1,0,1,0
 10.5281/zenodo.5797822,cern.zenodo,2021,article-journal,D1.3 Operational and design optimization methodologies for flexibility,Zenodo,0,1,0,1,0
@@ -149,11 +172,13 @@ doi,clientId,publicationYear,resourceType,title,publisher,isPublisher,haveCreato
 10.6084/m9.figshare.19311854.v1,figshare.ars,2022,article-journal,Additional file 8 of Properties of tests for knee joint threshold to detect passive motion following anterior cruciate ligament injury: a systematic review and meta-analysis,figshare,0,1,0,1,0
 10.6084/m9.figshare.19311857,figshare.ars,2022,article-journal,Additional file 9 of Properties of tests for knee joint threshold to detect passive motion following anterior cruciate ligament injury: a systematic review and meta-analysis,figshare,0,1,0,1,0
 10.6084/m9.figshare.19311857.v1,figshare.ars,2022,article-journal,Additional file 9 of Properties of tests for knee joint threshold to detect passive motion following anterior cruciate ligament injury: a systematic review and meta-analysis,figshare,0,1,0,1,0
+10.48550/arxiv.hep-ph/0309213,arxiv.content,2003,article,Preon Prophecies by the Standard Model,arXiv,0,1,0,1,0
 10.5281/zenodo.6372931,cern.zenodo,2022,dataset,TIMES-Sweden (Industrial) Heat generation technologies database,Zenodo,0,1,0,1,0
 10.5281/zenodo.6372930,cern.zenodo,2022,dataset,TIMES-Sweden (Industrial) Heat generation technologies database,Zenodo,0,1,0,0,0
 10.5281/zenodo.6372927,cern.zenodo,2022,dataset,TIMES-Sweden Fuel production technologies database,Zenodo,0,1,0,1,0
 10.5281/zenodo.6372926,cern.zenodo,2022,dataset,TIMES-Sweden Fuel production technologies database,Zenodo,0,1,0,0,0
 10.5878/mkm0-b191,snd.snd,2022,dataset,Snow ice particle microphysical properties and fall speed from particle images taken in Kiruna (Sweden) 2014–2018 - Data 2,Luleå University of Technology,1,1,0,1,0
+10.21227/dk1h-s748,ieee.dataport,2022,dataset,Blockchain in Education: Systematic Review and Practical Case Studies,IEEE DataPort,0,1,0,1,0
 10.5281/zenodo.6460066,cern.zenodo,2021,article,Children's perceptions of factors enhancing play value and inclusion on outdoor playgrounds: a synthesis of qualitative evidence,Zenodo,0,1,0,1,0
 10.5281/zenodo.6460065,cern.zenodo,2021,article,Children's perceptions of factors enhancing play value and inclusion on outdoor playgrounds: a synthesis of qualitative evidence,Zenodo,0,1,0,0,1
 10.5281/zenodo.6460091,cern.zenodo,2021,article-journal,Can we play together? Inclusive playgrounds as an example to enhance resilience in public spaces,Zenodo,0,1,0,1,0
@@ -183,6 +208,7 @@ doi,clientId,publicationYear,resourceType,title,publisher,isPublisher,haveCreato
 10.6084/m9.figshare.c.6004136.v1,figshare.ars,2022,article,Increased co-contraction reaction during a surface perturbation is associated with unsuccessful postural control among older adults,figshare,0,1,0,1,0
 10.6084/m9.figshare.19793360,figshare.ars,2022,article-journal,Additional file 1 of Increased co-contraction reaction during a surface perturbation is associated with unsuccessful postural control among older adults,figshare,0,1,0,1,0
 10.6084/m9.figshare.19793360.v1,figshare.ars,2022,article-journal,Additional file 1 of Increased co-contraction reaction during a surface perturbation is associated with unsuccessful postural control among older adults,figshare,0,1,0,1,0
+10.21251/eefafafa-705c-4cdb-921e-a2bb0d32b6ef,bl.ulster,2022,dataset,Chatpal Chatbot dialogue data - version 1,Ulster University,0,1,0,1,0
 10.6084/m9.figshare.c.6014948,figshare.ars,2022,article,Using mHealth applications for self-care – An integrative review on perceptions among adults with type 1 diabetes,figshare,0,1,0,1,0
 10.6084/m9.figshare.c.6014948.v1,figshare.ars,2022,article,Using mHealth applications for self-care – An integrative review on perceptions among adults with type 1 diabetes,figshare,0,1,0,1,0
 10.6084/m9.figshare.19881500,figshare.ars,2022,article-journal,Additional file 1 of Using mHealth applications for self-care – An integrative review on perceptions among adults with type 1 diabetes,figshare,0,1,0,1,0
@@ -258,8 +284,11 @@ doi,clientId,publicationYear,resourceType,title,publisher,isPublisher,haveCreato
 10.6084/m9.figshare.21582775.v1,figshare.ars,2022,article-journal,"Additional file 3 of The cultural adaptation of the go wish card game for use in Flanders, Belgium: a public health tool to identify and discuss end-of-life preferences",figshare,0,1,0,1,0
 10.6084/m9.figshare.c.6306544,figshare.ars,2022,article,"The cultural adaptation of the go wish card game for use in Flanders, Belgium: a public health tool to identify and discuss end-of-life preferences",figshare,0,1,0,1,0
 10.6084/m9.figshare.c.6306544.v1,figshare.ars,2022,article,"The cultural adaptation of the go wish card game for use in Flanders, Belgium: a public health tool to identify and discuss end-of-life preferences",figshare,0,1,0,1,0
+10.21227/ebcf-gq89,ieee.dataport,2022,dataset,CRAWDAD upmc/content,IEEE DataPort,0,1,0,1,0
 10.6084/m9.figshare.21732260,figshare.ars,2022,article-journal,Implementing advance care planning in Swedish healthcare settings – a qualitative study of professionals’ experiences,Taylor & Francis,0,1,0,1,0
 10.6084/m9.figshare.21732260.v1,figshare.ars,2022,article-journal,Implementing advance care planning in Swedish healthcare settings – a qualitative study of professionals’ experiences,Taylor & Francis,0,1,0,1,0
+10.5281/zenodo.7474191,cern.zenodo,2022,dataset,The Impact of Satellite Trails on Hubble Space Telescope Observations: satellite classifications,Zenodo,0,1,0,1,0
+10.5281/zenodo.7474190,cern.zenodo,2022,dataset,The Impact of Satellite Trails on Hubble Space Telescope Observations: satellite classifications,Zenodo,0,1,0,0,1
 10.25384/sage.21778276.v1,sage.journals,2022,article-journal,sj-pdf-1-ijb-10.1177_13670069221139155 – Supplemental material for A longitudinal study of episodic memory recall in multilinguals,SAGE Journals,0,1,0,1,0
 10.25384/sage.21778276,sage.journals,2022,article-journal,sj-pdf-1-ijb-10.1177_13670069221139155 – Supplemental material for A longitudinal study of episodic memory recall in multilinguals,SAGE Journals,0,1,0,1,0
 10.25384/sage.c.6359290,sage.journals,2022,article,A longitudinal study of episodic memory recall in multilinguals,SAGE Journals,0,1,0,1,0
@@ -284,6 +313,8 @@ doi,clientId,publicationYear,resourceType,title,publisher,isPublisher,haveCreato
 10.5281/zenodo.7980680,cern.zenodo,2023,dataset,Raw Data for Publication: Fungal colonisation on wood surfaces weathered at diverse climatic conditions,Zenodo,0,1,0,0,1
 10.5878/rp39-7c73,snd.snd,2023,dataset,Wastewater influent and effluent concentrations from on-site package plants in Northern Sweden and Finland,Luleå University of Technology,1,1,0,0,1
 10.5878/48t5-qm50,snd.snd,2023,dataset,Wastewater influent and effluent concentrations from on-site package plants in Northern Sweden and Finland,Luleå University of Technology,1,1,0,1,0
+10.5281/zenodo.8025748,cern.zenodo,2023,article-journal,Experiences of municipal staff when children share their views for (re)designing a local playspace,Zenodo,0,1,0,1,0
+10.5281/zenodo.8025747,cern.zenodo,2023,article-journal,Experiences of municipal staff when children share their views for (re)designing a local playspace,Zenodo,0,1,0,0,1
 10.5878/zm66-nt92,snd.snd,2021,dataset,CHAQ2020 - Snow Hill Island - Photographic and video data - CHAQ2020 - Snow Hill Island - Videos,University of Gothenburg,0,0,1,0,1
 10.5878/mtwx-ct87,snd.snd,2021,dataset,CHAQ2020 - Hope Bay - Photographic data - CHAQ2020 - Hope Bay - Photographs,University of Gothenburg,0,0,1,0,1
 10.5878/y9br-g039,snd.snd,2021,dataset,CHAQ2020 - Snow Hill Island - Photographic and video data - CHAQ2020 - Snow Hill Island - Photographs,University of Gothenburg,0,0,1,0,1
@@ -319,6 +350,8 @@ doi,clientId,publicationYear,resourceType,title,publisher,isPublisher,haveCreato
 10.6084/m9.figshare.24186202.v1,figshare.ars,2023,article-journal,Additional file 3 of A psychometric evaluation of the Swedish translation of the Perceived Stress Scale: a Rasch analysis,figshare,0,1,0,1,0
 10.6084/m9.figshare.c.6849079,figshare.ars,2023,article,A psychometric evaluation of the Swedish translation of the Perceived Stress Scale: a Rasch analysis,figshare,0,1,0,1,0
 10.6084/m9.figshare.c.6849079.v1,figshare.ars,2023,article,A psychometric evaluation of the Swedish translation of the Perceived Stress Scale: a Rasch analysis,figshare,0,1,0,1,0
+10.5281/zenodo.8428035,cern.zenodo,2023,dataset,ICDAR 2023 CROHME: Competition on Recognition of Handwritten Mathematical Expressions,Zenodo,0,1,0,1,0
+10.5281/zenodo.8428034,cern.zenodo,2023,dataset,ICDAR 2023 CROHME: Competition on Recognition of Handwritten Mathematical Expressions,Zenodo,0,1,0,0,1
 10.5281/zenodo.10009763,cern.zenodo,2022,article-journal,Mattering the situated and social nature of schoolyard play,Zenodo,0,1,0,1,0
 10.25798/m2e4-b398,wuua.confident,2024,article,18th International Conference on Document Analysis and Recognition,German National Library of Science and Technology,0,0,1,1,0
 10.5281/zenodo.10044629,cern.zenodo,2023,article,Using Lexical Complexity Measures to Predict Grades in Student Writing,LCRGradConf23 Organizing Committee,0,1,0,1,0
@@ -349,8 +382,8 @@ doi,clientId,publicationYear,resourceType,title,publisher,isPublisher,haveCreato
 10.48448/jxne-ph73,undsci.oopmau,2023,article,Laser Generated Drops – Towards a Method Variant for Extended Surface Tension Measurement of Metals,Underline Science Inc.,0,1,0,1,0
 10.5281/zenodo.10691429,cern.zenodo,2024,article-journal,Health and Wellbeing Living Lab Symposium Presentations,Zenodo,0,0,1,0,1
 10.5281/zenodo.10691430,cern.zenodo,2024,article-journal,Health and Wellbeing Living Lab Symposium Presentations,Zenodo,0,0,1,1,0
-10.5281/zenodo.10784928,cern.zenodo,2024,article-journal,Expressions of Free Play in Digital Spaces,Zenodo,0,1,0,0,1
-10.5281/zenodo.10784929,cern.zenodo,2024,article-journal,Expressions of Free Play in Digital Spaces,Zenodo,0,1,0,1,0
+10.5281/zenodo.10784928,cern.zenodo,2024,article-journal,Expressions of Free Play in Digital Spaces,Zenodo,0,1,1,0,1
+10.5281/zenodo.10784929,cern.zenodo,2024,article-journal,Expressions of Free Play in Digital Spaces,Zenodo,0,1,1,1,0
 10.5878/86jq-fn49,snd.snd,2024,dataset,Predictive action impairment in autism: behavioral and brain imaging data,Umeå University,0,1,0,1,0
 10.5878/cmma-mt85,snd.snd,2024,dataset,Predictive action impairment in autism: behavioral and brain imaging data,Umeå University,0,1,0,0,1
 10.5281/zenodo.10948802,cern.zenodo,2024,article,Proceedings of the  OpenLivingLab Days  Conference 2023,Zenodo,0,0,1,0,1
@@ -754,6 +787,8 @@ doi,clientId,publicationYear,resourceType,title,publisher,isPublisher,haveCreato
 10.5281/zenodo.14159676,cern.zenodo,2024,article,WWRF 49 : Arctic connectivity meets autonomy and sustainability,Zenodo,0,1,0,1,0
 10.5281/zenodo.14182530,cern.zenodo,2024,article,"""Finding the play""- Decolonizing play in the postcolonial island on Western shores",Zenodo,0,1,0,0,1
 10.5281/zenodo.14182531,cern.zenodo,2024,article,"""Finding the play""- Decolonizing play in the postcolonial island on Western shores",Zenodo,0,1,0,1,0
+10.5281/zenodo.14214372,cern.zenodo,2024,article,Optimisation of muon portals for border controls using TomOpt,Zenodo,0,1,0,0,1
+10.5281/zenodo.14214373,cern.zenodo,2024,article,Optimisation of muon portals for border controls using TomOpt,Zenodo,0,1,0,1,0
 10.6084/m9.figshare.27915486,figshare.ars,2024,article-journal,"Additional file 1 of Organosolv-derived lipids from hemicellulose and cellulose, and pre-extracted tannins as additives upon hydrothermal liquefaction (HTL) of spruce bark lignins to bio-oil",figshare,0,1,0,1,0
 10.6084/m9.figshare.27915486.v1,figshare.ars,2024,article-journal,"Additional file 1 of Organosolv-derived lipids from hemicellulose and cellulose, and pre-extracted tannins as additives upon hydrothermal liquefaction (HTL) of spruce bark lignins to bio-oil",figshare,0,1,0,1,0
 10.6084/m9.figshare.c.7558569,figshare.ars,2024,article,"Organosolv-derived lipids from hemicellulose and cellulose, and pre-extracted tannins as additives upon hydrothermal liquefaction (HTL) of spruce bark lignins to bio-oil",figshare,0,1,0,1,0
@@ -765,8 +800,8 @@ doi,clientId,publicationYear,resourceType,title,publisher,isPublisher,haveCreato
 10.5281/zenodo.14356382,cern.zenodo,2022,report,"Hur påverkas grundvattenmagasinering  av restaurering, anläggning och dränering  av våtmarker? - En systematisk översikt och samhällsekonomisk analys","The Swedish Research Council for Environment, Agricultural Sciences and Spatial Planning (Formas)",0,1,0,1,0
 10.48550/arxiv.2412.20049,arxiv.content,2024,article,Reinforcement Learning Driven Multi-Robot Exploration via Explicit Communication and Density-Based Frontier Search,arXiv,0,1,0,1,0
 10.48550/arxiv.2412.20075,arxiv.content,2024,article,Investigating the Impact of Communication-Induced Action Space on Exploration of Unknown Environments with Decentralized Multi-Agent Reinforcement Learning,arXiv,0,1,0,1,0
-10.5281/zenodo.14585202,cern.zenodo,2025,article-journal,Children's participation in designing a playspace in the community: Challenges and opportunities for local policy makers,Zenodo,0,0,1,0,1
-10.5281/zenodo.14585203,cern.zenodo,2025,article-journal,Children's participation in designing a playspace in the community: Challenges and opportunities for local policy makers,Zenodo,0,0,1,1,0
+10.5281/zenodo.14585202,cern.zenodo,2025,article-journal,Children's participation in designing a playspace in the community: Challenges and opportunities for local policy makers,Zenodo,0,1,1,0,1
+10.5281/zenodo.14585203,cern.zenodo,2025,article-journal,Children's participation in designing a playspace in the community: Challenges and opportunities for local policy makers,Zenodo,0,1,1,1,0
 10.5878/hpqb-k059,snd.snd,2025,dataset,Dataset containing concentrations of stormwater-driven substances in three urban streams under dry and wet weather conditions and in bottom sediments in Sweden,Luleå University of Technology,1,1,0,0,0
 10.5878/xz5m-yc36,snd.snd,2025,dataset,Dataset containing concentrations of stormwater-driven substances in urban streams under dry and wet weather conditions and in bottom sediments in Sweden,Luleå University of Technology,1,1,0,0,1
 10.5281/zenodo.14637572,cern.zenodo,2025,article,Supplementary material for: Loudness matching of complex tones simulating sounds from electric trucks,Zenodo,0,1,0,1,0
@@ -781,6 +816,8 @@ doi,clientId,publicationYear,resourceType,title,publisher,isPublisher,haveCreato
 10.48380/p51v-bg51,mcdy.dohrmi,2024,article-journal,"Thermal evolution of the Bergslagen ore province, Fennoscandian Shield (Sweden)",Deutsche Geologische Gesellschaft - Geologische Vereinigung e.V. (DGGV),0,1,0,1,0
 10.5281/zenodo.14500538,cern.zenodo,2024,article,PrOSA-kontrollen,Luleå University of Technology,1,1,1,0,1
 10.5281/zenodo.14500539,cern.zenodo,2024,article,PrOSA-kontrollen,Luleå University of Technology,1,1,1,1,0
+10.5281/zenodo.14794310,cern.zenodo,2025,dataset,Epidemics on the Move: How Public Transport Demand and Capacity Shape Disease Spread,Zenodo,0,1,0,0,1
+10.5281/zenodo.14794311,cern.zenodo,2025,dataset,Epidemics on the Move: How Public Transport Demand and Capacity Shape Disease Spread,Zenodo,0,1,0,1,0
 10.5281/zenodo.14780607,cern.zenodo,2025,dataset,"Data for manuscript ""Gram-scale synthesis of carbon quantum dots with a large Stokes shift for the fabrication of eco-friendly and high-efficiency luminescent solar concentrators""",Zenodo,0,0,1,0,1
 10.5281/zenodo.14780608,cern.zenodo,2025,dataset,"Data for manuscript ""Gram-scale synthesis of carbon quantum dots with a large Stokes shift for the fabrication of eco-friendly and high-efficiency luminescent solar concentrators""",Zenodo,0,0,1,1,0
 10.5878/yvsp-1a71,snd.snd,2025,dataset,Dataset for: Microgravity Penetrometry Flight Campaign in Support of MMX Sampler Science Exploitation,Luleå University of Technology,1,1,0,1,0
@@ -828,6 +865,11 @@ doi,clientId,publicationYear,resourceType,title,publisher,isPublisher,haveCreato
 10.48550/arxiv.2504.11907,arxiv.content,2025,article,A Graph-Based Reinforcement Learning Approach with Frontier Potential Based Reward for Safe Cluttered Environment Exploration,arXiv,0,1,0,1,0
 10.5281/zenodo.15239574,cern.zenodo,2025,dataset,Ti4C3 and Ti4N3 MXenes with ultralow diffusion barrier and  superior figure of merit as  high-Performance Anodes for Sodium-Ion Batteries,Zenodo,0,1,0,0,1
 10.5281/zenodo.15239575,cern.zenodo,2025,dataset,Ti4C3 and Ti4N3 MXenes with ultralow diffusion barrier and  superior figure of merit as  high-Performance Anodes for Sodium-Ion Batteries,Zenodo,0,1,0,1,0
+10.5281/zenodo.15274421,cern.zenodo,2025,dataset,Co-UDlabs_TA_IKT-04-TEST Standard development for stormwater management in Sweden,Zenodo,0,1,0,0,1
+10.5281/zenodo.15274422,cern.zenodo,2025,dataset,Co-UDlabs_TA_IKT-04-TEST Standard development for stormwater management in Sweden,Zenodo,0,1,0,1,0
+10.5281/zenodo.15279704,cern.zenodo,2025,dataset,Co-UDlabs_TA_IKT-04-TEST Standard development for stormwater management in Sweden,Zenodo,0,1,0,1,0
+10.5281/zenodo.15294443,cern.zenodo,2025,article,"Supporting Code for ""Epidemics on the Move"" Study",Zenodo,0,1,0,0,1
+10.5281/zenodo.15294444,cern.zenodo,2025,article,"Supporting Code for ""Epidemics on the Move"" Study",Zenodo,0,1,0,1,0
 10.5281/zenodo.15294885,cern.zenodo,2025,dataset,Uncovering Exotic Topological Quantum States in Pure and Magnetically-Doped Pyrite OsS2,Zenodo,0,1,0,0,1
 10.5281/zenodo.15294886,cern.zenodo,2025,dataset,Uncovering Exotic Topological Quantum States in Pure and Magnetically-Doped Pyrite OsS2,Zenodo,0,1,0,1,0
 10.17632/3xwncsb5c6,bl.mendeley,2025,dataset,"Three-dimensional susceptibility model of the Manica greenstone belt, Mozambique, an integrated analysis with in-situ petrophysics and geochemistry data",Mendeley Data,0,1,0,0,1
@@ -858,6 +900,8 @@ doi,clientId,publicationYear,resourceType,title,publisher,isPublisher,haveCreato
 10.6084/m9.figshare.c.7899066.v1,figshare.ars,2025,article,Professional educators’ experiences teaching internationally educated nurses attending bridging programs: a qualitative interview study,figshare,0,1,0,1,0
 10.6084/m9.figshare.c.7899066,figshare.ars,2025,article,Professional educators’ experiences teaching internationally educated nurses attending bridging programs: a qualitative interview study,figshare,0,1,0,1,0
 10.17044/scilifelab.29479973,snd.bils,2025,dataset,CT scan images of internal resinwood in Scots pine,Luleå University of Technology,1,0,0,1,0
+10.5281/zenodo.15752372,cern.zenodo,2025,article-journal,CoARA Action Plan LTU,Zenodo,0,1,0,1,0
+10.5281/zenodo.15752371,cern.zenodo,2025,article-journal,CoARA Action Plan LTU,Zenodo,0,1,0,0,0
 10.5281/zenodo.15829602,cern.zenodo,2025,dataset,IFC-Models of Reclaimed Building Components Derived from Laser Scans,Zenodo,0,1,0,0,1
 10.5281/zenodo.15829603,cern.zenodo,2025,dataset,IFC-Models of Reclaimed Building Components Derived from Laser Scans,Zenodo,0,1,0,1,0
 10.5281/zenodo.15798076,cern.zenodo,2025,article-journal,Observation Campaign and Photometric Study of the Binary  (617) Patroclus-Menoetius Mutual Events,Zenodo,0,0,1,0,0
@@ -871,6 +915,8 @@ doi,clientId,publicationYear,resourceType,title,publisher,isPublisher,haveCreato
 10.5281/zenodo.16880797,cern.zenodo,2025,article,"Conference Abstract | Designing inclusive ""Third Places"" in universities: Insights from a critical occupational examination of play in schoolyards.",Zenodo,0,1,0,1,0
 10.5281/zenodo.16880893,cern.zenodo,2025,article,Conference Abstract,Zenodo,0,1,0,0,0
 10.5281/zenodo.16880894,cern.zenodo,2025,article,Conference Abstract,Zenodo,0,1,0,1,0
+10.5281/zenodo.16925940,cern.zenodo,2025,article-journal,A Hierarchical Graph-Based Terrain-Aware Autonomous Navigation Approach for Complementary Multimodal Ground-Aerial Exploration,Zenodo,0,1,0,0,0
+10.5281/zenodo.16925941,cern.zenodo,2025,article-journal,A Hierarchical Graph-Based Terrain-Aware Autonomous Navigation Approach for Complementary Multimodal Ground-Aerial Exploration,Zenodo,0,1,0,1,0
 10.5281/zenodo.16931849,cern.zenodo,2025,dataset,Surface height data used for the calculations presented in arXiv:2507.14054 and arXiv:2508.15492,Zenodo,0,1,0,0,0
 10.5281/zenodo.16931850,cern.zenodo,2025,dataset,Surface height data used for the calculations presented in arXiv:2507.14054 and arXiv:2508.15492,Zenodo,0,1,0,1,0
 10.5281/zenodo.16946604,cern.zenodo,2025,article,Large Language Models to generate sonic behaviors: the case of Wilding AI in exploring creative co-agency,Zenodo,0,1,0,0,0
