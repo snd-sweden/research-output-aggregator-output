@@ -1,208 +1,212 @@
 doi,clientId,publicationYear,resourceType,title,publisher,isPublisher,haveCreatorAffiliation,haveContributorAffiliation,isLatestVersion,isConceptDoi
 10.13140/rg.2.1.1470.3525,rg.rg,2015,article,The effect of optimizing engine control on fuel consumption and roll amplitude in ocean-going vessels: An experimental study,University of Skövde,1,0,0,1,0
-10.13140/rg.2.2.23052.51846,rg.rg,2017,article-journal,SemCheck - Script for the Case Studies,"University of Skövde, Sweden",1,0,0,1,0
-10.5061/dryad.g335f,dryad.dryad,2018,dataset,Data from: Expression profiling of human pluripotent stem cell-derived cardiomyocytes exposed to doxorubicin—integration and visualization of multi-omics data,Dryad,0,1,0,1,0
-10.5281/zenodo.2596791,cern.zenodo,2019,article-journal,Significant Things &amp; Significant Use - A self report study on objects of experiences with things,Zenodo,0,1,0,1,0
-10.5281/zenodo.2596790,cern.zenodo,2019,article-journal,Significant Things &amp; Significant Use - A self report study on objects of experiences with things,Zenodo,0,1,0,0,1
-10.5281/zenodo.2619733,cern.zenodo,2019,article-journal,Causes of Emotive Response to Artefacts,Zenodo,0,1,0,1,0
-10.5281/zenodo.2619732,cern.zenodo,2019,article-journal,Causes of Emotive Response to Artefacts,Zenodo,0,1,0,0,0
-10.5281/zenodo.3253437,cern.zenodo,2019,article-journal,A COMPARATIVE EVALUATION OF THE GPU VS. THE CPU FOR PARALLELIZATION OF EVOLUTIONARY ALGORITHMS THROUGH MULTIPLE INDEPENDENT RUNS,Zenodo,0,1,0,1,0
-10.5281/zenodo.3253436,cern.zenodo,2019,article-journal,A COMPARATIVE EVALUATION OF THE GPU VS. THE CPU FOR PARALLELIZATION OF EVOLUTIONARY ALGORITHMS THROUGH MULTIPLE INDEPENDENT RUNS,Zenodo,0,1,0,0,1
-10.5281/zenodo.3556678,cern.zenodo,2019,article-journal,CEUR-WS.org: Open-Access as a Community Effort,Zenodo,0,1,0,1,0
-10.5281/zenodo.3556677,cern.zenodo,2019,article-journal,CEUR-WS.org: Open-Access as a Community Effort,Zenodo,0,1,0,0,0
-10.5061/dryad.np5hqbzq1,dryad.dryad,2020,dataset,"Data on three Baltic species of Corynosoma Lühe, 1905 (Acanthocephala: Polymorphidae) from Baltic grey (Halichoerus grypus) and ringed seals (Pusa hispida)",Dryad,0,1,0,1,0
-10.5878/5g3c-q312,snd.snd,2020,dataset,The DREAM Dataset: Behavioural data from robot enhanced therapies for children with autism spectrum disorder,University of Skövde,1,1,0,0,1
-10.5878/17p8-6k13,snd.snd,2020,dataset,The DREAM Dataset: Behavioural data from robot enhanced therapies for children with autism spectrum disorder,University of Skövde,1,1,0,1,0
-10.5061/dryad.hqbzkh1fc,dryad.dryad,2021,dataset,Alignments from: Gene count from target sequence capture places three whole genome duplication events in Hibiscus L. (Malvaceae),Dryad,0,1,0,1,0
-10.5281/zenodo.4902175,cern.zenodo,2021,article,Crowdsourcing Long COVID Sweden (CiLC-S): Exploring Digital Methods and Voluntary Health Data for Research and Response in Social Crises,Zenodo,0,1,0,1,0
-10.5281/zenodo.4902174,cern.zenodo,2022,article,Crowdsourcing Long COVID Sweden (CiLC-S): Exploring Digital Methods and Voluntary Health Data for Research and Response in Social Crises,Zenodo,0,1,0,0,1
-10.5878/15xq-8e51,snd.snd,2021,dataset,Survey data from a survey about cybersecurity training and usability of security functions,University of Skövde,1,1,0,0,1
-10.5878/pv4m-s237,snd.snd,2021,dataset,Survey data from a survey about cybersecurity training and usability of security functions,University of Skövde,1,1,0,1,0
-10.5281/zenodo.5551873,cern.zenodo,2021,article-journal,A Comparative Evaluation of the GPU vs The CPU for Parallelization of Evolutionary Algorithms Through Multiple Independent Runs,Zenodo,0,1,0,1,0
-10.5281/zenodo.5551872,cern.zenodo,2021,article-journal,A Comparative Evaluation of the GPU vs The CPU for Parallelization of Evolutionary Algorithms Through Multiple Independent Runs,Zenodo,0,1,0,0,0
-10.5878/12vq-sc20,snd.snd,2021,dataset,"Data of winter weight from different subspecies of honey bee Apis mellifera colonies (Linnaeus, 1758) in southwestern Sweden",University of Skövde,1,1,0,0,1
-10.5878/987y-d292,snd.snd,2021,dataset,"Data of winter weight from different subspecies of honey bee Apis mellifera colonies (Linnaeus, 1758) in southwestern Sweden",University of Skövde,1,1,0,1,0
-10.48448/g2kd-mw81,undsci.oopmau,2020,article,Benchmarks for evaluating human-robot interaction: Lessons learned from human-animal interactions,Underline Science Inc.,0,1,0,1,0
-10.5281/zenodo.5897603,cern.zenodo,2022,article,SCORER,Zenodo,0,1,0,1,0
-10.5281/zenodo.5897602,cern.zenodo,2022,article,SCORER,Zenodo,0,1,0,0,1
-10.5878/15ms-tj23,snd.snd,2022,dataset,Comparison of different training methods impact on users ability to detect phishing,University of Skövde,1,1,1,0,1
-10.5878/g6d9-7210,snd.snd,2022,dataset,Comparison of different training methods impact on users ability to detect phishing,University of Skövde,1,1,1,1,0
-10.6084/m9.figshare.c.5943105,figshare.ars,2022,article,Independent and joint effects of body mass index and metabolic health in mid- and late-life on all-cause mortality: a cohort study from the Swedish Twin Registry with a mean follow-up of 13 Years,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.5943105.v1,figshare.ars,2022,article,Independent and joint effects of body mass index and metabolic health in mid- and late-life on all-cause mortality: a cohort study from the Swedish Twin Registry with a mean follow-up of 13 Years,figshare,0,1,0,1,0
-10.6084/m9.figshare.19582362,figshare.ars,2022,article-journal,Additional file 1 of Independent and joint effects of body mass index and metabolic health in mid- and late-life on all-cause mortality: a cohort study from the Swedish Twin Registry with a mean follow-up of 13 Years,figshare,0,1,0,1,0
-10.6084/m9.figshare.19582362.v1,figshare.ars,2022,article-journal,Additional file 1 of Independent and joint effects of body mass index and metabolic health in mid- and late-life on all-cause mortality: a cohort study from the Swedish Twin Registry with a mean follow-up of 13 Years,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.5949781,figshare.ars,2022,article,Sterile water injections for relief of labour pain (the SATURN trial): study protocol for a randomised controlled trial,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.5949781.v1,figshare.ars,2022,article,Sterile water injections for relief of labour pain (the SATURN trial): study protocol for a randomised controlled trial,figshare,0,1,0,1,0
-10.6084/m9.figshare.19603459,figshare.ars,2022,article-journal,Additional file 1 of Sterile water injections for relief of labour pain (the SATURN trial): study protocol for a randomised controlled trial,figshare,0,1,0,1,0
-10.6084/m9.figshare.19603459.v1,figshare.ars,2022,article-journal,Additional file 1 of Sterile water injections for relief of labour pain (the SATURN trial): study protocol for a randomised controlled trial,figshare,0,1,0,1,0
-10.6084/m9.figshare.19603462,figshare.ars,2022,article-journal,Additional file 2 of Sterile water injections for relief of labour pain (the SATURN trial): study protocol for a randomised controlled trial,figshare,0,1,0,1,0
-10.6084/m9.figshare.19603462.v1,figshare.ars,2022,article-journal,Additional file 2 of Sterile water injections for relief of labour pain (the SATURN trial): study protocol for a randomised controlled trial,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.5958706,figshare.ars,2022,article,Changed health behavior improves subjective well-being and vice versa in a follow-up of 9 years,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.5958706.v1,figshare.ars,2022,article,Changed health behavior improves subjective well-being and vice versa in a follow-up of 9 years,figshare,0,1,0,1,0
-10.6084/m9.figshare.19634782,figshare.ars,2022,article-journal,Additional file 1 of Changed health behavior improves subjective well-being and vice versa in a follow-up of 9 years,figshare,0,1,0,1,0
-10.6084/m9.figshare.19634782.v1,figshare.ars,2022,article-journal,Additional file 1 of Changed health behavior improves subjective well-being and vice versa in a follow-up of 9 years,figshare,0,1,0,1,0
-10.6084/m9.figshare.19681706,figshare.ars,2022,article-journal,Additional file 1 of Work-related stress and future sick leave in a working population seeking care at primary health care centres: a prospective longitudinal study using the WSQ,figshare,0,1,0,1,0
-10.6084/m9.figshare.19681706.v1,figshare.ars,2022,article-journal,Additional file 1 of Work-related stress and future sick leave in a working population seeking care at primary health care centres: a prospective longitudinal study using the WSQ,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.5972033,figshare.ars,2022,article,Work-related stress and future sick leave in a working population seeking care at primary health care centres: a prospective longitudinal study using the WSQ,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.5972033.v1,figshare.ars,2022,article,Work-related stress and future sick leave in a working population seeking care at primary health care centres: a prospective longitudinal study using the WSQ,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.6078556,figshare.ars,2022,article,The role of the home health care physician in mobile integrated care: a qualitative phenomenograpic study,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.6078556.v1,figshare.ars,2022,article,The role of the home health care physician in mobile integrated care: a qualitative phenomenograpic study,figshare,0,1,0,1,0
-10.6084/m9.figshare.20224807,figshare.ars,2022,article-journal,Additional file 1 of The role of the home health care physician in mobile integrated care: a qualitative phenomenograpic study,figshare,0,1,0,1,0
-10.6084/m9.figshare.20224807.v1,figshare.ars,2022,article-journal,Additional file 1 of The role of the home health care physician in mobile integrated care: a qualitative phenomenograpic study,figshare,0,1,0,1,0
-10.6084/m9.figshare.20562709,figshare.ars,2022,dataset,Using Video Footage for Observing Honey Bee Behaviour at Hive Entrances,Taylor & Francis,0,1,0,1,0
-10.6084/m9.figshare.20562709.v1,figshare.ars,2022,dataset,Using Video Footage for Observing Honey Bee Behaviour at Hive Entrances,Taylor & Francis,0,1,0,1,0
-10.5281/zenodo.7273621,cern.zenodo,2022,article,"Survey questionnaire: Health impacts and information needs in ""long-COVID""",Zenodo,0,1,0,1,0
-10.5281/zenodo.7273620,cern.zenodo,2022,article,"Survey questionnaire: Health impacts and information needs in ""long-COVID""",Zenodo,0,1,0,0,1
-10.5281/zenodo.7316922,cern.zenodo,2022,article,SCORER,Zenodo,0,1,0,1,0
-10.5281/zenodo.7316950,cern.zenodo,2022,article,"Survey questionnaire: Health impacts and information needs in ""long-COVID""",Zenodo,0,1,0,1,0
-10.5281/zenodo.7317123,cern.zenodo,2022,article,"Survey questionnaire: Health impacts and information needs in ""long-COVID""",Zenodo,0,1,0,1,0
-10.5281/zenodo.7317176,cern.zenodo,2022,article,Crowdsourcing Long COVID Sweden (CiLC-S): Exploring Digital Methods and Voluntary Health Data for Research and Response in Social Crises,Zenodo,0,1,0,1,0
-10.5878/1nvc-v140,snd.snd,2022,dataset,Population dynamics in greenhouse experiments of aphids and their predators,Swedish University of Agricultural Sciences,0,0,1,0,1
-10.5878/26hx-xy41,snd.snd,2022,dataset,Population dynamics in greenhouse experiments of aphids and their predators,Swedish University of Agricultural Sciences,0,0,1,1,0
-10.5061/dryad.59zw3r2cs,dryad.dryad,2023,dataset,Food webs coupled in space: Consumer foraging movement affects both stocks and fluxes,Dryad,0,1,0,1,0
-10.5281/zenodo.7796629,cern.zenodo,2023,article,Food webs coupled in space: Consumer foraging movement affects both stocks and fluxes,Zenodo,0,1,0,1,0
-10.5281/zenodo.7796628,cern.zenodo,2023,article,Food webs coupled in space: Consumer foraging movement affects both stocks and fluxes,Zenodo,0,1,0,0,0
-10.6084/m9.figshare.22608436,figshare.ars,2023,article-journal,Additional file 1 of Benchmarking of two bioinformatic workflows for the analysis of whole-genome sequenced Staphylococcus aureus collected from patients with suspected sepsis,figshare,0,1,0,1,0
-10.6084/m9.figshare.22608436.v1,figshare.ars,2023,article-journal,Additional file 1 of Benchmarking of two bioinformatic workflows for the analysis of whole-genome sequenced Staphylococcus aureus collected from patients with suspected sepsis,figshare,0,1,0,1,0
-10.6084/m9.figshare.22608439,figshare.ars,2023,article-journal,Additional file 2 of Benchmarking of two bioinformatic workflows for the analysis of whole-genome sequenced Staphylococcus aureus collected from patients with suspected sepsis,figshare,0,1,0,1,0
-10.6084/m9.figshare.22608439.v1,figshare.ars,2023,article-journal,Additional file 2 of Benchmarking of two bioinformatic workflows for the analysis of whole-genome sequenced Staphylococcus aureus collected from patients with suspected sepsis,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.6582913,figshare.ars,2023,article,Benchmarking of two bioinformatic workflows for the analysis of whole-genome sequenced Staphylococcus aureus collected from patients with suspected sepsis,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.6582913.v1,figshare.ars,2023,article,Benchmarking of two bioinformatic workflows for the analysis of whole-genome sequenced Staphylococcus aureus collected from patients with suspected sepsis,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.6583948,figshare.ars,2023,article,Longitudinal association of childhood physical activity and physical fitness with physical activity in adolescence: insights from the IDEFICS/I.Family study,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.6583948.v1,figshare.ars,2023,article,Longitudinal association of childhood physical activity and physical fitness with physical activity in adolescence: insights from the IDEFICS/I.Family study,figshare,0,1,0,1,0
-10.6084/m9.figshare.22609624,figshare.ars,2023,article-journal,Additional file 1 of Longitudinal association of childhood physical activity and physical fitness with physical activity in adolescence: insights from the IDEFICS/I.Family study,figshare,0,1,0,1,0
-10.6084/m9.figshare.22609624.v1,figshare.ars,2023,article-journal,Additional file 1 of Longitudinal association of childhood physical activity and physical fitness with physical activity in adolescence: insights from the IDEFICS/I.Family study,figshare,0,1,0,1,0
-10.5281/zenodo.8132159,cern.zenodo,2023,article,APM: Initial Release,Zenodo,0,1,0,1,0
-10.5878/gat9-m562,snd.snd,2023,dataset,Virtual simulation of an assembly sequence,University of Skövde,1,1,0,1,0
-10.5878/5v54-sk08,snd.snd,2023,dataset,Virtual simulation of an assembly sequence,University of Skövde,1,1,0,0,1
-10.5878/q68h-a144,snd.snd,2023,dataset,Thermography analysis of cluster movement of different honey bee (Apis mellifera) subspecies during two Swedish winters,University of Skövde,1,1,1,0,0
-10.5281/zenodo.10159439,cern.zenodo,2023,article,"Code and data for ""A framework for analysing biodiversity capacity at landscape level and identify areas of high ecological importance""",Zenodo,0,1,1,0,0
-10.5281/zenodo.10159440,cern.zenodo,2023,article,"Code and data for ""A framework for analysing biodiversity capacity at landscape level and identify areas of high ecological importance""",Zenodo,0,1,1,1,0
-10.6084/m9.figshare.25107767,figshare.ars,2024,dataset,Additional file 1 of Identification of biomarker candidates for exfoliative glaucoma from autoimmunity profiling,figshare,0,1,0,1,0
-10.6084/m9.figshare.25107767.v1,figshare.ars,2024,dataset,Additional file 1 of Identification of biomarker candidates for exfoliative glaucoma from autoimmunity profiling,figshare,0,1,0,1,0
-10.6084/m9.figshare.25107770,figshare.ars,2024,article-journal,Additional file 2 of Identification of biomarker candidates for exfoliative glaucoma from autoimmunity profiling,figshare,0,1,0,1,0
-10.6084/m9.figshare.25107770.v1,figshare.ars,2024,article-journal,Additional file 2 of Identification of biomarker candidates for exfoliative glaucoma from autoimmunity profiling,figshare,0,1,0,1,0
-10.6084/m9.figshare.25107773,figshare.ars,2024,article-journal,Additional file 3 of Identification of biomarker candidates for exfoliative glaucoma from autoimmunity profiling,figshare,0,1,0,1,0
-10.6084/m9.figshare.25107773.v1,figshare.ars,2024,article-journal,Additional file 3 of Identification of biomarker candidates for exfoliative glaucoma from autoimmunity profiling,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7049141,figshare.ars,2024,article,Identification of biomarker candidates for exfoliative glaucoma from autoimmunity profiling,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7049141.v1,figshare.ars,2024,article,Identification of biomarker candidates for exfoliative glaucoma from autoimmunity profiling,figshare,0,1,0,1,0
-10.5061/dryad.sxksn0392,dryad.dryad,2024,dataset,Data from: A new mechanistic model for individual growth suggests upregulated maintenance costs when food is scarce in an insect,Dryad,0,1,0,1,0
-10.5878/pyvm-re24,snd.snd,2024,dataset,Supplemental Material for: Comparison of drone ecology and behavior between Apis mellifera mellifera and the hybrid Buckfast in southwestern Sweden.,University of Skövde,1,1,1,1,0
-10.5878/teqt-b729,snd.snd,2024,dataset,Supplemental Material for: Comparison of drone ecology and behavior between Apis mellifera mellifera and the hybrid Buckfast in southwestern Sweden.,University of Skövde,1,1,1,0,1
-10.6084/m9.figshare.25237326,figshare.ars,2024,article-journal,"Additional file 1 of ”It´s like walking in a bubble”, nursing students´ perspectives on age suit simulation in a home environment – group interviews from reflection seminars",figshare,0,1,0,1,0
-10.6084/m9.figshare.25237326.v1,figshare.ars,2024,article-journal,"Additional file 1 of ”It´s like walking in a bubble”, nursing students´ perspectives on age suit simulation in a home environment – group interviews from reflection seminars",figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7079079,figshare.ars,2024,article,"”It´s like walking in a bubble”, nursing students´ perspectives on age suit simulation in a home environment – group interviews from reflection seminars",figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7079079.v1,figshare.ars,2024,article,"”It´s like walking in a bubble”, nursing students´ perspectives on age suit simulation in a home environment – group interviews from reflection seminars",figshare,0,1,0,1,0
-10.5445/ir/1000166399,tib.kit,2007,article-journal,Word Reordering in Statistical Machine Translation with a POS-Based Distortion Model,University of Skövde,1,0,0,1,0
-10.5281/zenodo.11210133,cern.zenodo,2024,dataset,Genomic surveillance of Enterococcus faecalis in South Africa,Zenodo,0,1,0,0,1
-10.5281/zenodo.11210134,cern.zenodo,2024,dataset,Genomic surveillance of Enterococcus faecalis in South Africa,Zenodo,0,1,0,1,0
-10.60692/4cyj2-gdb80,iapx.bsycxq,2021,article-journal,"Data from a pooled post hoc analysis of 14 placebo-controlled, dapagliflozin treatment studies in patients with type 2 diabetes with and without anemia at baseline",OpenAlex,0,1,0,1,0
-10.60692/57tq9-qps93,iapx.bsycxq,2021,article-journal,"Data from a pooled post hoc analysis of 14 placebo-controlled, dapagliflozin treatment studies in patients with type 2 diabetes with and without anemia at baseline",OpenAlex,0,1,0,0,0
-10.60692/bt6dj-7e063,iapx.bsycxq,2020,article-journal,Bi-allelic GAD1 variants cause a neonatal onset syndromic developmental and epileptic encephalopathy,OpenAlex,0,1,0,1,0
-10.60692/jf1n9-16z42,iapx.bsycxq,2020,article-journal,Bi-allelic GAD1 variants cause a neonatal onset syndromic developmental and epileptic encephalopathy,OpenAlex,0,1,0,0,0
-10.60692/2ec5h-yzn24,iapx.bsycxq,2016,article-journal,Role of Silicon Counteracting Cadmium Toxicity in Alfalfa (Medicago sativa L.),OpenAlex,0,1,0,1,0
-10.60692/d8k8j-bma49,iapx.bsycxq,2016,article-journal,Role of Silicon Counteracting Cadmium Toxicity in Alfalfa (Medicago sativa L.),OpenAlex,0,1,0,0,1
-10.60692/kgnsr-6nv51,iapx.bsycxq,2011,article-journal,Dose-response relationship between arsenic exposure and the serum enzymes for liver function tests in the individuals exposed to arsenic: a cross sectional study in Bangladesh,OpenAlex,0,1,0,1,0
-10.60692/1p4rf-v6w14,iapx.bsycxq,2011,article-journal,Dose-response relationship between arsenic exposure and the serum enzymes for liver function tests in the individuals exposed to arsenic: a cross sectional study in Bangladesh,OpenAlex,0,1,0,0,1
-10.60692/fetcc-szb11,iapx.bsycxq,2010,article-journal,Association between arsenic exposure and plasma cholinesterase activity: a population based study in Bangladesh,OpenAlex,0,1,0,1,0
-10.60692/fkfb7-5yc09,iapx.bsycxq,2010,article-journal,Association between arsenic exposure and plasma cholinesterase activity: a population based study in Bangladesh,OpenAlex,0,1,0,0,1
-10.60692/mrjj3-2ee13,iapx.bsycxq,2015,article-journal,Elevated concentrations of serum matrix metalloproteinase-2 and -9 and their associations with circulating markers of cardiovascular diseases in chronic arsenic-exposed individuals,OpenAlex,0,1,0,0,1
-10.60692/ta4np-rv431,iapx.bsycxq,2015,article-journal,Elevated concentrations of serum matrix metalloproteinase-2 and -9 and their associations with circulating markers of cardiovascular diseases in chronic arsenic-exposed individuals,OpenAlex,0,1,0,1,0
-10.60692/8djb3-z7g98,iapx.bsycxq,2019,article-journal,A fuzzy logic approach to influence maximization in social networks,OpenAlex,0,1,0,1,0
-10.60692/h6rs5-wmh21,iapx.bsycxq,2019,article-journal,A fuzzy logic approach to influence maximization in social networks,OpenAlex,0,1,0,0,1
-10.5281/zenodo.12588810,cern.zenodo,2024,dataset,Human-Robot Interaction Conversational User Enjoyment Scale (HRI CUES) Dataset - Anonymized,Zenodo,0,1,0,1,0
-10.5281/zenodo.12588809,cern.zenodo,2024,dataset,Human-Robot Interaction Conversational User Enjoyment Scale (HRI CUES) Dataset - Anonymized,Zenodo,0,1,0,0,1
-10.60692/e1bag-b7e73,iapx.bsycxq,2020,article-journal,An urban Blitz with a twist: rapid biodiversity assessment using aquatic environmental DNA,OpenAlex,0,1,0,0,1
-10.60692/mpgsh-1f743,iapx.bsycxq,2020,article-journal,An urban Blitz with a twist: rapid biodiversity assessment using aquatic environmental DNA,OpenAlex,0,1,0,1,0
-10.60692/2ydbn-p2w91,iapx.bsycxq,2017,article-journal,Relationship between Cognitive and Sleep–wake Variables in Asymptomatic Offspring of Patients with Late-onset Alzheimer's Disease,OpenAlex,0,1,0,1,0
-10.60692/afp5b-m8809,iapx.bsycxq,2017,article-journal,Relationship between Cognitive and Sleep–wake Variables in Asymptomatic Offspring of Patients with Late-onset Alzheimer's Disease,OpenAlex,0,1,0,0,1
-10.60692/61yx8-web97,iapx.bsycxq,2018,article-journal,Population genetics of benzimidazole-resistant Haemonchus contortus and Haemonchus placei from buffalo and cattle: implications for the emergence and spread of resistance mutations,OpenAlex,0,1,0,0,1
-10.60692/nyr8a-m1942,iapx.bsycxq,2018,article-journal,Population genetics of benzimidazole-resistant Haemonchus contortus and Haemonchus placei from buffalo and cattle: implications for the emergence and spread of resistance mutations,OpenAlex,0,1,0,1,0
-10.60692/ajq5h-dd526,iapx.bsycxq,2023,article-journal,Biallelic MED27 variants lead to variable ponto-cerebello-lental degeneration with movement disorders,OpenAlex,0,1,0,0,1
-10.60692/dd0ph-sbh37,iapx.bsycxq,2023,article-journal,Biallelic MED27 variants lead to variable ponto-cerebello-lental degeneration with movement disorders,OpenAlex,0,1,0,1,0
-10.5878/dkn3-cx19,snd.snd,2024,dataset,Data for: Ecological comparison of native (Apis mellifera mellifera) and hybrid (Buckfast) honeybee drones in southwestern Sweden indicates local adaptation.,University of Skövde,1,1,0,1,0
-10.5878/045g-2228,snd.snd,2024,dataset,Data for: Ecological comparison of native (Apis mellifera mellifera) and hybrid (Buckfast) honeybee drones in southwestern Sweden indicates local adaptation.,University of Skövde,1,1,0,0,1
-10.6084/m9.figshare.26639623,figshare.ars,2024,article-journal,Additional file 1 of Nursing students’ attitudes towards the use of digital technology in the healthcare of older adults- a cross-sectional study in Norway and Sweden,figshare,0,1,0,1,0
-10.6084/m9.figshare.26639623.v1,figshare.ars,2024,article-journal,Additional file 1 of Nursing students’ attitudes towards the use of digital technology in the healthcare of older adults- a cross-sectional study in Norway and Sweden,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.6930857,figshare.ars,2024,article,Nursing students’ attitudes towards the use of digital technology in the healthcare of older adults- a cross-sectional study in Norway and Sweden,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.6930857.v1,figshare.ars,2024,article,Nursing students’ attitudes towards the use of digital technology in the healthcare of older adults- a cross-sectional study in Norway and Sweden,figshare,0,1,0,1,0
-10.6084/m9.figshare.26645284,figshare.ars,2024,article-journal,Additional file 1 of The association between adolescents’ self-esteem and perceived mental well-being in Sweden in four years of follow-up,figshare,0,1,0,1,0
-10.6084/m9.figshare.26645284.v1,figshare.ars,2024,article-journal,Additional file 1 of The association between adolescents’ self-esteem and perceived mental well-being in Sweden in four years of follow-up,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.6948051,figshare.ars,2024,article,The association between adolescents’ self-esteem and perceived mental well-being in Sweden in four years of follow-up,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.6948051.v1,figshare.ars,2024,article,The association between adolescents’ self-esteem and perceived mental well-being in Sweden in four years of follow-up,figshare,0,1,0,1,0
-10.6084/m9.figshare.26678294.v1,figshare.ars,2024,article-journal,Additional file 1 of Impacts on oral health attitude and knowledge after completing a digital training module among Swedish healthcare professionals working with older adults,figshare,0,1,0,1,0
-10.6084/m9.figshare.26678294,figshare.ars,2024,article-journal,Additional file 1 of Impacts on oral health attitude and knowledge after completing a digital training module among Swedish healthcare professionals working with older adults,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7065084,figshare.ars,2024,article,Impacts on oral health attitude and knowledge after completing a digital training module among Swedish healthcare professionals working with older adults,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7065084.v1,figshare.ars,2024,article,Impacts on oral health attitude and knowledge after completing a digital training module among Swedish healthcare professionals working with older adults,figshare,0,1,0,1,0
-10.6084/m9.figshare.26709899,figshare.ars,2024,article-journal,Additional file 1 of Clusters of lifestyle behavioral risk factors and their associations with depressive symptoms and stress: evidence from students at a university in Finland,figshare,0,1,0,1,0
-10.6084/m9.figshare.26709899.v1,figshare.ars,2024,article-journal,Additional file 1 of Clusters of lifestyle behavioral risk factors and their associations with depressive symptoms and stress: evidence from students at a university in Finland,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7195227,figshare.ars,2024,article,Clusters of lifestyle behavioral risk factors and their associations with depressive symptoms and stress: evidence from students at a university in Finland,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7195227.v1,figshare.ars,2024,article,Clusters of lifestyle behavioral risk factors and their associations with depressive symptoms and stress: evidence from students at a university in Finland,figshare,0,1,0,1,0
-10.6084/m9.figshare.26742029,figshare.ars,2024,article-journal,"Additional file 1 of Experiences from patients in mental healthcare accessing their electronic health records: results from a cross-national survey in Estonia, Finland, Norway, and Sweden",figshare,0,1,0,1,0
-10.6084/m9.figshare.26742029.v1,figshare.ars,2024,article-journal,"Additional file 1 of Experiences from patients in mental healthcare accessing their electronic health records: results from a cross-national survey in Estonia, Finland, Norway, and Sweden",figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7313074,figshare.ars,2024,article,"Experiences from patients in mental healthcare accessing their electronic health records: results from a cross-national survey in Estonia, Finland, Norway, and Sweden",figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7313074.v1,figshare.ars,2024,article,"Experiences from patients in mental healthcare accessing their electronic health records: results from a cross-national survey in Estonia, Finland, Norway, and Sweden",figshare,0,1,0,1,0
-10.13140/rg.2.2.14331.32801,rg.rg,2024,article-journal,Examination av stora studentgrupper - möjligheter och utmaningar - projektrapport,University of Skövde,1,0,0,1,0
-10.6084/m9.figshare.27123877,figshare.ars,2024,article-journal,"Additional file 1 of Association between socioeconomic position of the household head, food insecurity and psychological health: an application of propensity score matching",figshare,0,1,0,1,0
-10.6084/m9.figshare.27123877.v1,figshare.ars,2024,article-journal,"Additional file 1 of Association between socioeconomic position of the household head, food insecurity and psychological health: an application of propensity score matching",figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7470412,figshare.ars,2024,article,"Association between socioeconomic position of the household head, food insecurity and psychological health: an application of propensity score matching",figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7470412.v1,figshare.ars,2024,article,"Association between socioeconomic position of the household head, food insecurity and psychological health: an application of propensity score matching",figshare,0,1,0,1,0
-10.6084/m9.figshare.27208891,figshare.ars,2024,article-journal,Additional file 1 of Mechanisms for co-designing and co-producing health and social care: a realist synthesis,figshare,0,1,0,1,0
-10.6084/m9.figshare.27208891.v1,figshare.ars,2024,article-journal,Additional file 1 of Mechanisms for co-designing and co-producing health and social care: a realist synthesis,figshare,0,1,0,1,0
-10.6084/m9.figshare.27208894,figshare.ars,2024,article-journal,Additional file 2 of Mechanisms for co-designing and co-producing health and social care: a realist synthesis,figshare,0,1,0,1,0
-10.6084/m9.figshare.27208894.v1,figshare.ars,2024,article-journal,Additional file 2 of Mechanisms for co-designing and co-producing health and social care: a realist synthesis,figshare,0,1,0,1,0
-10.6084/m9.figshare.27208897,figshare.ars,2024,dataset,Additional file 3 of Mechanisms for co-designing and co-producing health and social care: a realist synthesis,figshare,0,1,0,1,0
-10.6084/m9.figshare.27208897.v1,figshare.ars,2024,dataset,Additional file 3 of Mechanisms for co-designing and co-producing health and social care: a realist synthesis,figshare,0,1,0,1,0
-10.6084/m9.figshare.27208900,figshare.ars,2024,article-journal,Additional file 4 of Mechanisms for co-designing and co-producing health and social care: a realist synthesis,figshare,0,1,0,1,0
-10.6084/m9.figshare.27208900.v1,figshare.ars,2024,article-journal,Additional file 4 of Mechanisms for co-designing and co-producing health and social care: a realist synthesis,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7489381,figshare.ars,2024,article,Mechanisms for co-designing and co-producing health and social care: a realist synthesis,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7489381.v1,figshare.ars,2024,article,Mechanisms for co-designing and co-producing health and social care: a realist synthesis,figshare,0,1,0,1,0
-10.6084/m9.figshare.27501952,figshare.ars,2024,article-journal,Additional file 1 of Unscheduled home consultations by registered nurses may reduce acute clinic visits,figshare,0,1,0,1,0
-10.6084/m9.figshare.27501952.v1,figshare.ars,2024,article-journal,Additional file 1 of Unscheduled home consultations by registered nurses may reduce acute clinic visits,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7521652,figshare.ars,2024,article,Unscheduled home consultations by registered nurses may reduce acute clinic visits,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7521652.v1,figshare.ars,2024,article,Unscheduled home consultations by registered nurses may reduce acute clinic visits,figshare,0,1,0,1,0
-10.6084/m9.figshare.27641265,figshare.ars,2024,article-journal,Additional file 1 of Health promoting resources and lifestyle factors among higher education students in healthcare and social work programmes: a survey with a longitudinal multicentre design,figshare,0,1,0,1,0
-10.6084/m9.figshare.27641265.v1,figshare.ars,2024,article-journal,Additional file 1 of Health promoting resources and lifestyle factors among higher education students in healthcare and social work programmes: a survey with a longitudinal multicentre design,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7531914,figshare.ars,2024,article,Health promoting resources and lifestyle factors among higher education students in healthcare and social work programmes: a survey with a longitudinal multicentre design,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7531914.v1,figshare.ars,2024,article,Health promoting resources and lifestyle factors among higher education students in healthcare and social work programmes: a survey with a longitudinal multicentre design,figshare,0,1,0,1,0
-10.5878/68mj-8k45,snd.snd,2024,dataset,"Data for Freshwater mollusc community screening - classical and eDNA monitoring to detect rare, indicator and invasive species",University of Skövde,1,1,0,1,0
-10.5878/7e2j-a776,snd.snd,2024,dataset,"Data for Freshwater mollusc community screening - classical and eDNA monitoring to detect rare, indicator and invasive species",University of Skövde,1,1,0,0,1
-10.5281/zenodo.14655748,cern.zenodo,2025,article-journal,D2.3 – Innovative Teaching Concept on Standardisation – Use Guide for Standardisation Education,Zenodo,0,0,1,0,1
-10.5281/zenodo.14655749,cern.zenodo,2024,article-journal,D2.3 – Innovative Teaching Concept on Standardisation – Use Guide for Standardisation Education,Zenodo,0,0,1,1,0
-10.48723/fr58-f782,vkoc.doris,2025,dataset,Transcriptomics profiling of human PSC cultured under different conditions,Karolinska Institutet,0,0,1,1,0
-10.48723/0a55-ab34,vkoc.doris,2025,dataset,Transcriptomics profiling of human PSC cultured under different conditions,Karolinska Institutet,0,0,1,0,1
-10.5281/zenodo.14774013,cern.zenodo,2024,article,Comparative Analysis of Sustainability Reporting Methodologies in European Urban Areas,Zenodo,0,1,0,0,1
-10.5281/zenodo.14774014,cern.zenodo,2024,article,Comparative Analysis of Sustainability Reporting Methodologies in European Urban Areas,Zenodo,0,1,0,1,0
-10.6084/m9.figshare.28356891,figshare.ars,2025,article-journal,Additional file 1 of Pain assessment and management of adult patients in the Swedish EMS: a nationwide registry study,figshare,0,1,0,1,0
-10.6084/m9.figshare.28356891.v1,figshare.ars,2025,article-journal,Additional file 1 of Pain assessment and management of adult patients in the Swedish EMS: a nationwide registry study,figshare,0,1,0,1,0
-10.6084/m9.figshare.28356894,figshare.ars,2025,dataset,Additional file 2 of Pain assessment and management of adult patients in the Swedish EMS: a nationwide registry study,figshare,0,1,0,1,0
-10.6084/m9.figshare.28356894.v1,figshare.ars,2025,dataset,Additional file 2 of Pain assessment and management of adult patients in the Swedish EMS: a nationwide registry study,figshare,0,1,0,1,0
-10.6084/m9.figshare.28356897,figshare.ars,2025,dataset,Additional file 3 of Pain assessment and management of adult patients in the Swedish EMS: a nationwide registry study,figshare,0,1,0,1,0
-10.6084/m9.figshare.28356897.v1,figshare.ars,2025,dataset,Additional file 3 of Pain assessment and management of adult patients in the Swedish EMS: a nationwide registry study,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7660395,figshare.ars,2025,article,Pain assessment and management of adult patients in the Swedish EMS: a nationwide registry study,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7660395.v1,figshare.ars,2025,article,Pain assessment and management of adult patients in the Swedish EMS: a nationwide registry study,figshare,0,1,0,1,0
-10.5281/zenodo.14850705,cern.zenodo,2025,article-journal,D2.3 – Innovative Teaching Concept on Standardisation – Use Guide for Standardisation Education,Zenodo,0,0,1,1,0
-10.6084/m9.figshare.28521300,figshare.ars,2025,article-journal,Additional file 1 of Unraveling the role of early coeliac disease diagnosis in the risk of developing immune-mediated renal diseases,figshare,0,1,0,1,0
-10.6084/m9.figshare.28521300.v1,figshare.ars,2025,article-journal,Additional file 1 of Unraveling the role of early coeliac disease diagnosis in the risk of developing immune-mediated renal diseases,figshare,0,1,0,1,0
-10.6084/m9.figshare.28521303,figshare.ars,2025,article-journal,Additional file 2 of Unraveling the role of early coeliac disease diagnosis in the risk of developing immune-mediated renal diseases,figshare,0,1,0,1,0
-10.6084/m9.figshare.28521303.v1,figshare.ars,2025,article-journal,Additional file 2 of Unraveling the role of early coeliac disease diagnosis in the risk of developing immune-mediated renal diseases,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7699905,figshare.ars,2025,article,Unraveling the role of early coeliac disease diagnosis in the risk of developing immune-mediated renal diseases,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7699905.v1,figshare.ars,2025,article,Unraveling the role of early coeliac disease diagnosis in the risk of developing immune-mediated renal diseases,figshare,0,1,0,1,0
-10.6084/m9.figshare.28551721,figshare.ars,2025,article-journal,Additional file 1 of The CGA1-SNAT regulatory module potentially contributes to cytokinin-mediated melatonin biosynthesis and drought tolerance in wheat,figshare,0,1,0,1,0
-10.6084/m9.figshare.28551721.v1,figshare.ars,2025,article-journal,Additional file 1 of The CGA1-SNAT regulatory module potentially contributes to cytokinin-mediated melatonin biosynthesis and drought tolerance in wheat,figshare,0,1,0,1,0
-10.6084/m9.figshare.28551724,figshare.ars,2025,dataset,Additional file 2 of The CGA1-SNAT regulatory module potentially contributes to cytokinin-mediated melatonin biosynthesis and drought tolerance in wheat,figshare,0,1,0,1,0
-10.6084/m9.figshare.28551724.v1,figshare.ars,2025,dataset,Additional file 2 of The CGA1-SNAT regulatory module potentially contributes to cytokinin-mediated melatonin biosynthesis and drought tolerance in wheat,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7708018.v1,figshare.ars,2025,article,The CGA1-SNAT regulatory module potentially contributes to cytokinin-mediated melatonin biosynthesis and drought tolerance in wheat,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7708018,figshare.ars,2025,article,The CGA1-SNAT regulatory module potentially contributes to cytokinin-mediated melatonin biosynthesis and drought tolerance in wheat,figshare,0,1,0,1,0
-10.5281/zenodo.15042376,cern.zenodo,2025,report,Interdisciplinary Knowledge Framework: Report of the Activity 2 of the ENRICH Project,Zenodo,0,1,0,0,1
-10.5281/zenodo.15042377,cern.zenodo,2025,report,Interdisciplinary Knowledge Framework: Report of the Activity 2 of the ENRICH Project,Zenodo,0,1,0,1,0
-10.6084/m9.figshare.29085763,figshare.ars,2025,article-journal,Additional file 1 of Building trusting relationships while worrying about doing the wrong thing - a qualitative content analysis study on Swedish school nurses experiences of meeting students with trans experiences,figshare,0,1,0,1,0
-10.6084/m9.figshare.29085763.v1,figshare.ars,2025,article-journal,Additional file 1 of Building trusting relationships while worrying about doing the wrong thing - a qualitative content analysis study on Swedish school nurses experiences of meeting students with trans experiences,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7823227,figshare.ars,2025,article,Building trusting relationships while worrying about doing the wrong thing - a qualitative content analysis study on Swedish school nurses experiences of meeting students with trans experiences,figshare,0,1,0,1,0
-10.6084/m9.figshare.c.7823227.v1,figshare.ars,2025,article,Building trusting relationships while worrying about doing the wrong thing - a qualitative content analysis study on Swedish school nurses experiences of meeting students with trans experiences,figshare,0,1,0,1,0
-10.5281/zenodo.15552367,cern.zenodo,2025,article-journal,D3.1 - Pilot Design Report,Zenodo,0,0,1,1,0
-10.5281/zenodo.15552366,cern.zenodo,2025,article-journal,D3.1 - Pilot Design Report,Zenodo,0,0,1,0,1
-10.5281/zenodo.15743709,cern.zenodo,2025,article-journal,The Munster Statement on the Principles of Research Ethics and Research Integrity,Zenodo,0,0,1,0,1
-10.5281/zenodo.15743710,cern.zenodo,2025,article-journal,The Munster Statement on the Principles of Research Ethics and Research Integrity,Zenodo,0,0,1,1,0
-10.5878/qe0c-kb63,snd.snd,2025,dataset,Data for: Coverage of Web Accessibility Guidelines Provided by Automated Checking Tools,University of Skövde,1,1,0,1,0
-10.5878/xr5x-zs24,snd.snd,2025,dataset,Data for: Coverage of Web Accessibility Guidelines Provided by Automated Checking Tools,University of Skövde,1,1,0,0,0
+10.13140/rg.2.2.23052.51846,rg.rg,2017,Text,SemCheck - Script for the Case Studies,"University of Skövde, Sweden",1,0,0,1,0
+10.5061/dryad.g335f,dryad.dryad,2018,Dataset,Data from: Expression profiling of human pluripotent stem cell-derived cardiomyocytes exposed to doxorubicin—integration and visualization of multi-omics data,Dryad,0,1,0,1,0
+10.5281/zenodo.2596791,cern.zenodo,2019,Text,Significant Things &amp; Significant Use - A self report study on objects of experiences with things,Zenodo,0,1,0,1,0
+10.5281/zenodo.2596790,cern.zenodo,2019,Text,Significant Things &amp; Significant Use - A self report study on objects of experiences with things,Zenodo,0,1,0,0,1
+10.5281/zenodo.2619733,cern.zenodo,2019,Text,Causes of Emotive Response to Artefacts,Zenodo,0,1,0,1,0
+10.5281/zenodo.2619732,cern.zenodo,2019,Text,Causes of Emotive Response to Artefacts,Zenodo,0,1,0,0,0
+10.5281/zenodo.3253437,cern.zenodo,2019,Text,A COMPARATIVE EVALUATION OF THE GPU VS. THE CPU FOR PARALLELIZATION OF EVOLUTIONARY ALGORITHMS THROUGH MULTIPLE INDEPENDENT RUNS,Zenodo,0,1,0,1,0
+10.5281/zenodo.3253436,cern.zenodo,2019,Text,A COMPARATIVE EVALUATION OF THE GPU VS. THE CPU FOR PARALLELIZATION OF EVOLUTIONARY ALGORITHMS THROUGH MULTIPLE INDEPENDENT RUNS,Zenodo,0,1,0,0,1
+10.5281/zenodo.3556678,cern.zenodo,2019,Text,CEUR-WS.org: Open-Access as a Community Effort,Zenodo,0,1,0,1,0
+10.5281/zenodo.3556677,cern.zenodo,2019,Text,CEUR-WS.org: Open-Access as a Community Effort,Zenodo,0,1,0,0,0
+10.5061/dryad.np5hqbzq1,dryad.dryad,2020,Dataset,"Data on three Baltic species of Corynosoma Lühe, 1905 (Acanthocephala: Polymorphidae) from Baltic grey (Halichoerus grypus) and ringed seals (Pusa hispida)",Dryad,0,1,0,1,0
+10.5878/5g3c-q312,snd.snd,2020,Dataset,The DREAM Dataset: Behavioural data from robot enhanced therapies for children with autism spectrum disorder,University of Skövde,1,1,0,0,1
+10.5878/17p8-6k13,snd.snd,2020,Dataset,The DREAM Dataset: Behavioural data from robot enhanced therapies for children with autism spectrum disorder,University of Skövde,1,1,0,1,0
+10.5061/dryad.hqbzkh1fc,dryad.dryad,2021,Dataset,Alignments from: Gene count from target sequence capture places three whole genome duplication events in Hibiscus L. (Malvaceae),Dryad,0,1,0,1,0
+10.5281/zenodo.4902175,cern.zenodo,2021,Text,Crowdsourcing Long COVID Sweden (CiLC-S): Exploring Digital Methods and Voluntary Health Data for Research and Response in Social Crises,Zenodo,0,1,0,1,0
+10.5281/zenodo.4902174,cern.zenodo,2022,Text,Crowdsourcing Long COVID Sweden (CiLC-S): Exploring Digital Methods and Voluntary Health Data for Research and Response in Social Crises,Zenodo,0,1,0,0,1
+10.5878/15xq-8e51,snd.snd,2021,Dataset,Survey data from a survey about cybersecurity training and usability of security functions,University of Skövde,1,1,0,0,1
+10.5878/pv4m-s237,snd.snd,2021,Dataset,Survey data from a survey about cybersecurity training and usability of security functions,University of Skövde,1,1,0,1,0
+10.5281/zenodo.5551873,cern.zenodo,2021,JournalArticle,A Comparative Evaluation of the GPU vs The CPU for Parallelization of Evolutionary Algorithms Through Multiple Independent Runs,Zenodo,0,1,0,1,0
+10.5281/zenodo.5551872,cern.zenodo,2021,JournalArticle,A Comparative Evaluation of the GPU vs The CPU for Parallelization of Evolutionary Algorithms Through Multiple Independent Runs,Zenodo,0,1,0,0,0
+10.5878/12vq-sc20,snd.snd,2021,Dataset,"Data of winter weight from different subspecies of honey bee Apis mellifera colonies (Linnaeus, 1758) in southwestern Sweden",University of Skövde,1,1,0,0,1
+10.5878/987y-d292,snd.snd,2021,Dataset,"Data of winter weight from different subspecies of honey bee Apis mellifera colonies (Linnaeus, 1758) in southwestern Sweden",University of Skövde,1,1,0,1,0
+10.48448/g2kd-mw81,undsci.oopmau,2020,Audiovisual,Benchmarks for evaluating human-robot interaction: Lessons learned from human-animal interactions,Underline Science Inc.,0,1,0,1,0
+10.5281/zenodo.5897603,cern.zenodo,2022,Software,SCORER,Zenodo,0,1,0,1,0
+10.5281/zenodo.5897602,cern.zenodo,2022,Software,SCORER,Zenodo,0,1,0,0,1
+10.5878/15ms-tj23,snd.snd,2022,Dataset,Comparison of different training methods impact on users ability to detect phishing,University of Skövde,1,1,1,0,1
+10.5878/g6d9-7210,snd.snd,2022,Dataset,Comparison of different training methods impact on users ability to detect phishing,University of Skövde,1,1,1,1,0
+10.6084/m9.figshare.c.5943105,figshare.ars,2022,Collection,Independent and joint effects of body mass index and metabolic health in mid- and late-life on all-cause mortality: a cohort study from the Swedish Twin Registry with a mean follow-up of 13 Years,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.5943105.v1,figshare.ars,2022,Collection,Independent and joint effects of body mass index and metabolic health in mid- and late-life on all-cause mortality: a cohort study from the Swedish Twin Registry with a mean follow-up of 13 Years,figshare,0,1,0,1,0
+10.6084/m9.figshare.19582362,figshare.ars,2022,Text,Additional file 1 of Independent and joint effects of body mass index and metabolic health in mid- and late-life on all-cause mortality: a cohort study from the Swedish Twin Registry with a mean follow-up of 13 Years,figshare,0,1,0,1,0
+10.6084/m9.figshare.19582362.v1,figshare.ars,2022,Text,Additional file 1 of Independent and joint effects of body mass index and metabolic health in mid- and late-life on all-cause mortality: a cohort study from the Swedish Twin Registry with a mean follow-up of 13 Years,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.5949781,figshare.ars,2022,Collection,Sterile water injections for relief of labour pain (the SATURN trial): study protocol for a randomised controlled trial,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.5949781.v1,figshare.ars,2022,Collection,Sterile water injections for relief of labour pain (the SATURN trial): study protocol for a randomised controlled trial,figshare,0,1,0,1,0
+10.6084/m9.figshare.19603459,figshare.ars,2022,Text,Additional file 1 of Sterile water injections for relief of labour pain (the SATURN trial): study protocol for a randomised controlled trial,figshare,0,1,0,1,0
+10.6084/m9.figshare.19603459.v1,figshare.ars,2022,Text,Additional file 1 of Sterile water injections for relief of labour pain (the SATURN trial): study protocol for a randomised controlled trial,figshare,0,1,0,1,0
+10.6084/m9.figshare.19603462,figshare.ars,2022,Text,Additional file 2 of Sterile water injections for relief of labour pain (the SATURN trial): study protocol for a randomised controlled trial,figshare,0,1,0,1,0
+10.6084/m9.figshare.19603462.v1,figshare.ars,2022,Text,Additional file 2 of Sterile water injections for relief of labour pain (the SATURN trial): study protocol for a randomised controlled trial,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.5958706,figshare.ars,2022,Collection,Changed health behavior improves subjective well-being and vice versa in a follow-up of 9 years,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.5958706.v1,figshare.ars,2022,Collection,Changed health behavior improves subjective well-being and vice versa in a follow-up of 9 years,figshare,0,1,0,1,0
+10.6084/m9.figshare.19634782,figshare.ars,2022,Text,Additional file 1 of Changed health behavior improves subjective well-being and vice versa in a follow-up of 9 years,figshare,0,1,0,1,0
+10.6084/m9.figshare.19634782.v1,figshare.ars,2022,Text,Additional file 1 of Changed health behavior improves subjective well-being and vice versa in a follow-up of 9 years,figshare,0,1,0,1,0
+10.6084/m9.figshare.19681706,figshare.ars,2022,Text,Additional file 1 of Work-related stress and future sick leave in a working population seeking care at primary health care centres: a prospective longitudinal study using the WSQ,figshare,0,1,0,1,0
+10.6084/m9.figshare.19681706.v1,figshare.ars,2022,Text,Additional file 1 of Work-related stress and future sick leave in a working population seeking care at primary health care centres: a prospective longitudinal study using the WSQ,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.5972033,figshare.ars,2022,Collection,Work-related stress and future sick leave in a working population seeking care at primary health care centres: a prospective longitudinal study using the WSQ,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.5972033.v1,figshare.ars,2022,Collection,Work-related stress and future sick leave in a working population seeking care at primary health care centres: a prospective longitudinal study using the WSQ,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.6078556,figshare.ars,2022,Collection,The role of the home health care physician in mobile integrated care: a qualitative phenomenograpic study,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.6078556.v1,figshare.ars,2022,Collection,The role of the home health care physician in mobile integrated care: a qualitative phenomenograpic study,figshare,0,1,0,1,0
+10.6084/m9.figshare.20224807,figshare.ars,2022,Text,Additional file 1 of The role of the home health care physician in mobile integrated care: a qualitative phenomenograpic study,figshare,0,1,0,1,0
+10.6084/m9.figshare.20224807.v1,figshare.ars,2022,Text,Additional file 1 of The role of the home health care physician in mobile integrated care: a qualitative phenomenograpic study,figshare,0,1,0,1,0
+10.6084/m9.figshare.20562709,figshare.ars,2022,Dataset,Using Video Footage for Observing Honey Bee Behaviour at Hive Entrances,Taylor & Francis,0,1,0,1,0
+10.6084/m9.figshare.20562709.v1,figshare.ars,2022,Dataset,Using Video Footage for Observing Honey Bee Behaviour at Hive Entrances,Taylor & Francis,0,1,0,1,0
+10.5281/zenodo.7273621,cern.zenodo,2022,Other,"Survey questionnaire: Health impacts and information needs in ""long-COVID""",Zenodo,0,1,0,1,0
+10.5281/zenodo.7273620,cern.zenodo,2022,Other,"Survey questionnaire: Health impacts and information needs in ""long-COVID""",Zenodo,0,1,0,0,1
+10.5281/zenodo.7316922,cern.zenodo,2022,Software,SCORER,Zenodo,0,1,0,1,0
+10.5281/zenodo.7316950,cern.zenodo,2022,Other,"Survey questionnaire: Health impacts and information needs in ""long-COVID""",Zenodo,0,1,0,1,0
+10.5281/zenodo.7317123,cern.zenodo,2022,Other,"Survey questionnaire: Health impacts and information needs in ""long-COVID""",Zenodo,0,1,0,1,0
+10.5281/zenodo.7317176,cern.zenodo,2022,Text,Crowdsourcing Long COVID Sweden (CiLC-S): Exploring Digital Methods and Voluntary Health Data for Research and Response in Social Crises,Zenodo,0,1,0,1,0
+10.5878/1nvc-v140,snd.snd,2022,Dataset,Population dynamics in greenhouse experiments of aphids and their predators,Swedish University of Agricultural Sciences,0,0,1,0,1
+10.5878/26hx-xy41,snd.snd,2022,Dataset,Population dynamics in greenhouse experiments of aphids and their predators,Swedish University of Agricultural Sciences,0,0,1,1,0
+10.5061/dryad.59zw3r2cs,dryad.dryad,2023,Dataset,Food webs coupled in space: Consumer foraging movement affects both stocks and fluxes,Dryad,0,1,0,1,0
+10.5281/zenodo.7796629,cern.zenodo,2023,Software,Food webs coupled in space: Consumer foraging movement affects both stocks and fluxes,Zenodo,0,1,0,1,0
+10.5281/zenodo.7796628,cern.zenodo,2023,Software,Food webs coupled in space: Consumer foraging movement affects both stocks and fluxes,Zenodo,0,1,0,0,0
+10.6084/m9.figshare.22608436,figshare.ars,2023,Text,Additional file 1 of Benchmarking of two bioinformatic workflows for the analysis of whole-genome sequenced Staphylococcus aureus collected from patients with suspected sepsis,figshare,0,1,0,1,0
+10.6084/m9.figshare.22608436.v1,figshare.ars,2023,Text,Additional file 1 of Benchmarking of two bioinformatic workflows for the analysis of whole-genome sequenced Staphylococcus aureus collected from patients with suspected sepsis,figshare,0,1,0,1,0
+10.6084/m9.figshare.22608439,figshare.ars,2023,Text,Additional file 2 of Benchmarking of two bioinformatic workflows for the analysis of whole-genome sequenced Staphylococcus aureus collected from patients with suspected sepsis,figshare,0,1,0,1,0
+10.6084/m9.figshare.22608439.v1,figshare.ars,2023,Text,Additional file 2 of Benchmarking of two bioinformatic workflows for the analysis of whole-genome sequenced Staphylococcus aureus collected from patients with suspected sepsis,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.6582913,figshare.ars,2023,Collection,Benchmarking of two bioinformatic workflows for the analysis of whole-genome sequenced Staphylococcus aureus collected from patients with suspected sepsis,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.6582913.v1,figshare.ars,2023,Collection,Benchmarking of two bioinformatic workflows for the analysis of whole-genome sequenced Staphylococcus aureus collected from patients with suspected sepsis,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.6583948,figshare.ars,2023,Collection,Longitudinal association of childhood physical activity and physical fitness with physical activity in adolescence: insights from the IDEFICS/I.Family study,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.6583948.v1,figshare.ars,2023,Collection,Longitudinal association of childhood physical activity and physical fitness with physical activity in adolescence: insights from the IDEFICS/I.Family study,figshare,0,1,0,1,0
+10.6084/m9.figshare.22609624,figshare.ars,2023,Text,Additional file 1 of Longitudinal association of childhood physical activity and physical fitness with physical activity in adolescence: insights from the IDEFICS/I.Family study,figshare,0,1,0,1,0
+10.6084/m9.figshare.22609624.v1,figshare.ars,2023,Text,Additional file 1 of Longitudinal association of childhood physical activity and physical fitness with physical activity in adolescence: insights from the IDEFICS/I.Family study,figshare,0,1,0,1,0
+10.5281/zenodo.8132159,cern.zenodo,2023,Software,APM: Initial Release,Zenodo,0,1,0,1,0
+10.5878/gat9-m562,snd.snd,2023,Dataset,Virtual simulation of an assembly sequence,University of Skövde,1,1,0,1,0
+10.5878/5v54-sk08,snd.snd,2023,Dataset,Virtual simulation of an assembly sequence,University of Skövde,1,1,0,0,1
+10.5878/q68h-a144,snd.snd,2023,Dataset,Thermography analysis of cluster movement of different honey bee (Apis mellifera) subspecies during two Swedish winters,University of Skövde,1,1,1,0,0
+10.5281/zenodo.10159439,cern.zenodo,2023,Software,"Code and data for ""A framework for analysing biodiversity capacity at landscape level and identify areas of high ecological importance""",Zenodo,0,1,1,0,0
+10.5281/zenodo.10159440,cern.zenodo,2023,Software,"Code and data for ""A framework for analysing biodiversity capacity at landscape level and identify areas of high ecological importance""",Zenodo,0,1,1,1,0
+10.6084/m9.figshare.25107767,figshare.ars,2024,Dataset,Additional file 1 of Identification of biomarker candidates for exfoliative glaucoma from autoimmunity profiling,figshare,0,1,0,1,0
+10.6084/m9.figshare.25107767.v1,figshare.ars,2024,Dataset,Additional file 1 of Identification of biomarker candidates for exfoliative glaucoma from autoimmunity profiling,figshare,0,1,0,1,0
+10.6084/m9.figshare.25107770,figshare.ars,2024,Text,Additional file 2 of Identification of biomarker candidates for exfoliative glaucoma from autoimmunity profiling,figshare,0,1,0,1,0
+10.6084/m9.figshare.25107770.v1,figshare.ars,2024,Text,Additional file 2 of Identification of biomarker candidates for exfoliative glaucoma from autoimmunity profiling,figshare,0,1,0,1,0
+10.6084/m9.figshare.25107773,figshare.ars,2024,Text,Additional file 3 of Identification of biomarker candidates for exfoliative glaucoma from autoimmunity profiling,figshare,0,1,0,1,0
+10.6084/m9.figshare.25107773.v1,figshare.ars,2024,Text,Additional file 3 of Identification of biomarker candidates for exfoliative glaucoma from autoimmunity profiling,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7049141,figshare.ars,2024,Collection,Identification of biomarker candidates for exfoliative glaucoma from autoimmunity profiling,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7049141.v1,figshare.ars,2024,Collection,Identification of biomarker candidates for exfoliative glaucoma from autoimmunity profiling,figshare,0,1,0,1,0
+10.5061/dryad.sxksn0392,dryad.dryad,2024,Dataset,Data from: A new mechanistic model for individual growth suggests upregulated maintenance costs when food is scarce in an insect,Dryad,0,1,0,1,0
+10.5878/pyvm-re24,snd.snd,2024,Dataset,Supplemental Material for: Comparison of drone ecology and behavior between Apis mellifera mellifera and the hybrid Buckfast in southwestern Sweden.,University of Skövde,1,1,1,1,0
+10.5878/teqt-b729,snd.snd,2024,Dataset,Supplemental Material for: Comparison of drone ecology and behavior between Apis mellifera mellifera and the hybrid Buckfast in southwestern Sweden.,University of Skövde,1,1,1,0,1
+10.6084/m9.figshare.25237326,figshare.ars,2024,Text,"Additional file 1 of ”It´s like walking in a bubble”, nursing students´ perspectives on age suit simulation in a home environment – group interviews from reflection seminars",figshare,0,1,0,1,0
+10.6084/m9.figshare.25237326.v1,figshare.ars,2024,Text,"Additional file 1 of ”It´s like walking in a bubble”, nursing students´ perspectives on age suit simulation in a home environment – group interviews from reflection seminars",figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7079079,figshare.ars,2024,Collection,"”It´s like walking in a bubble”, nursing students´ perspectives on age suit simulation in a home environment – group interviews from reflection seminars",figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7079079.v1,figshare.ars,2024,Collection,"”It´s like walking in a bubble”, nursing students´ perspectives on age suit simulation in a home environment – group interviews from reflection seminars",figshare,0,1,0,1,0
+10.5445/ir/1000166399,tib.kit,2007,Text,Word Reordering in Statistical Machine Translation with a POS-Based Distortion Model,University of Skövde,1,0,0,1,0
+10.5281/zenodo.11210133,cern.zenodo,2024,Dataset,Genomic surveillance of Enterococcus faecalis in South Africa,Zenodo,0,1,0,0,1
+10.5281/zenodo.11210134,cern.zenodo,2024,Dataset,Genomic surveillance of Enterococcus faecalis in South Africa,Zenodo,0,1,0,1,0
+10.60692/4cyj2-gdb80,iapx.bsycxq,2021,Text,"Data from a pooled post hoc analysis of 14 placebo-controlled, dapagliflozin treatment studies in patients with type 2 diabetes with and without anemia at baseline",OpenAlex,0,1,0,1,0
+10.60692/57tq9-qps93,iapx.bsycxq,2021,Text,"Data from a pooled post hoc analysis of 14 placebo-controlled, dapagliflozin treatment studies in patients with type 2 diabetes with and without anemia at baseline",OpenAlex,0,1,0,0,0
+10.60692/bt6dj-7e063,iapx.bsycxq,2020,Text,Bi-allelic GAD1 variants cause a neonatal onset syndromic developmental and epileptic encephalopathy,OpenAlex,0,1,0,1,0
+10.60692/jf1n9-16z42,iapx.bsycxq,2020,Text,Bi-allelic GAD1 variants cause a neonatal onset syndromic developmental and epileptic encephalopathy,OpenAlex,0,1,0,0,0
+10.60692/2ec5h-yzn24,iapx.bsycxq,2016,Text,Role of Silicon Counteracting Cadmium Toxicity in Alfalfa (Medicago sativa L.),OpenAlex,0,1,0,1,0
+10.60692/d8k8j-bma49,iapx.bsycxq,2016,Text,Role of Silicon Counteracting Cadmium Toxicity in Alfalfa (Medicago sativa L.),OpenAlex,0,1,0,0,1
+10.60692/kgnsr-6nv51,iapx.bsycxq,2011,Text,Dose-response relationship between arsenic exposure and the serum enzymes for liver function tests in the individuals exposed to arsenic: a cross sectional study in Bangladesh,OpenAlex,0,1,0,1,0
+10.60692/1p4rf-v6w14,iapx.bsycxq,2011,Text,Dose-response relationship between arsenic exposure and the serum enzymes for liver function tests in the individuals exposed to arsenic: a cross sectional study in Bangladesh,OpenAlex,0,1,0,0,1
+10.60692/fetcc-szb11,iapx.bsycxq,2010,Text,Association between arsenic exposure and plasma cholinesterase activity: a population based study in Bangladesh,OpenAlex,0,1,0,1,0
+10.60692/fkfb7-5yc09,iapx.bsycxq,2010,Text,Association between arsenic exposure and plasma cholinesterase activity: a population based study in Bangladesh,OpenAlex,0,1,0,0,1
+10.60692/mrjj3-2ee13,iapx.bsycxq,2015,Text,Elevated concentrations of serum matrix metalloproteinase-2 and -9 and their associations with circulating markers of cardiovascular diseases in chronic arsenic-exposed individuals,OpenAlex,0,1,0,0,1
+10.60692/ta4np-rv431,iapx.bsycxq,2015,Text,Elevated concentrations of serum matrix metalloproteinase-2 and -9 and their associations with circulating markers of cardiovascular diseases in chronic arsenic-exposed individuals,OpenAlex,0,1,0,1,0
+10.60692/8djb3-z7g98,iapx.bsycxq,2019,Text,A fuzzy logic approach to influence maximization in social networks,OpenAlex,0,1,0,1,0
+10.60692/h6rs5-wmh21,iapx.bsycxq,2019,Text,A fuzzy logic approach to influence maximization in social networks,OpenAlex,0,1,0,0,1
+10.5281/zenodo.12588810,cern.zenodo,2024,Dataset,Human-Robot Interaction Conversational User Enjoyment Scale (HRI CUES) Dataset - Anonymized,Zenodo,0,1,0,1,0
+10.5281/zenodo.12588809,cern.zenodo,2024,Dataset,Human-Robot Interaction Conversational User Enjoyment Scale (HRI CUES) Dataset - Anonymized,Zenodo,0,1,0,0,1
+10.60692/e1bag-b7e73,iapx.bsycxq,2020,Text,An urban Blitz with a twist: rapid biodiversity assessment using aquatic environmental DNA,OpenAlex,0,1,0,0,1
+10.60692/mpgsh-1f743,iapx.bsycxq,2020,Text,An urban Blitz with a twist: rapid biodiversity assessment using aquatic environmental DNA,OpenAlex,0,1,0,1,0
+10.60692/2ydbn-p2w91,iapx.bsycxq,2017,Text,Relationship between Cognitive and Sleep–wake Variables in Asymptomatic Offspring of Patients with Late-onset Alzheimer's Disease,OpenAlex,0,1,0,1,0
+10.60692/afp5b-m8809,iapx.bsycxq,2017,Text,Relationship between Cognitive and Sleep–wake Variables in Asymptomatic Offspring of Patients with Late-onset Alzheimer's Disease,OpenAlex,0,1,0,0,1
+10.60692/61yx8-web97,iapx.bsycxq,2018,Text,Population genetics of benzimidazole-resistant Haemonchus contortus and Haemonchus placei from buffalo and cattle: implications for the emergence and spread of resistance mutations,OpenAlex,0,1,0,0,1
+10.60692/nyr8a-m1942,iapx.bsycxq,2018,Text,Population genetics of benzimidazole-resistant Haemonchus contortus and Haemonchus placei from buffalo and cattle: implications for the emergence and spread of resistance mutations,OpenAlex,0,1,0,1,0
+10.60692/ajq5h-dd526,iapx.bsycxq,2023,Text,Biallelic MED27 variants lead to variable ponto-cerebello-lental degeneration with movement disorders,OpenAlex,0,1,0,0,1
+10.60692/dd0ph-sbh37,iapx.bsycxq,2023,Text,Biallelic MED27 variants lead to variable ponto-cerebello-lental degeneration with movement disorders,OpenAlex,0,1,0,1,0
+10.5878/dkn3-cx19,snd.snd,2024,Dataset,Data for: Ecological comparison of native (Apis mellifera mellifera) and hybrid (Buckfast) honeybee drones in southwestern Sweden indicates local adaptation.,University of Skövde,1,1,0,1,0
+10.5878/045g-2228,snd.snd,2024,Dataset,Data for: Ecological comparison of native (Apis mellifera mellifera) and hybrid (Buckfast) honeybee drones in southwestern Sweden indicates local adaptation.,University of Skövde,1,1,0,0,1
+10.6084/m9.figshare.26639623,figshare.ars,2024,Text,Additional file 1 of Nursing students’ attitudes towards the use of digital technology in the healthcare of older adults- a cross-sectional study in Norway and Sweden,figshare,0,1,0,1,0
+10.6084/m9.figshare.26639623.v1,figshare.ars,2024,Text,Additional file 1 of Nursing students’ attitudes towards the use of digital technology in the healthcare of older adults- a cross-sectional study in Norway and Sweden,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.6930857,figshare.ars,2024,Collection,Nursing students’ attitudes towards the use of digital technology in the healthcare of older adults- a cross-sectional study in Norway and Sweden,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.6930857.v1,figshare.ars,2024,Collection,Nursing students’ attitudes towards the use of digital technology in the healthcare of older adults- a cross-sectional study in Norway and Sweden,figshare,0,1,0,1,0
+10.6084/m9.figshare.26645284,figshare.ars,2024,Text,Additional file 1 of The association between adolescents’ self-esteem and perceived mental well-being in Sweden in four years of follow-up,figshare,0,1,0,1,0
+10.6084/m9.figshare.26645284.v1,figshare.ars,2024,Text,Additional file 1 of The association between adolescents’ self-esteem and perceived mental well-being in Sweden in four years of follow-up,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.6948051,figshare.ars,2024,Collection,The association between adolescents’ self-esteem and perceived mental well-being in Sweden in four years of follow-up,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.6948051.v1,figshare.ars,2024,Collection,The association between adolescents’ self-esteem and perceived mental well-being in Sweden in four years of follow-up,figshare,0,1,0,1,0
+10.6084/m9.figshare.26678294.v1,figshare.ars,2024,Text,Additional file 1 of Impacts on oral health attitude and knowledge after completing a digital training module among Swedish healthcare professionals working with older adults,figshare,0,1,0,1,0
+10.6084/m9.figshare.26678294,figshare.ars,2024,Text,Additional file 1 of Impacts on oral health attitude and knowledge after completing a digital training module among Swedish healthcare professionals working with older adults,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7065084,figshare.ars,2024,Collection,Impacts on oral health attitude and knowledge after completing a digital training module among Swedish healthcare professionals working with older adults,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7065084.v1,figshare.ars,2024,Collection,Impacts on oral health attitude and knowledge after completing a digital training module among Swedish healthcare professionals working with older adults,figshare,0,1,0,1,0
+10.6084/m9.figshare.26709899,figshare.ars,2024,Text,Additional file 1 of Clusters of lifestyle behavioral risk factors and their associations with depressive symptoms and stress: evidence from students at a university in Finland,figshare,0,1,0,1,0
+10.6084/m9.figshare.26709899.v1,figshare.ars,2024,Text,Additional file 1 of Clusters of lifestyle behavioral risk factors and their associations with depressive symptoms and stress: evidence from students at a university in Finland,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7195227,figshare.ars,2024,Collection,Clusters of lifestyle behavioral risk factors and their associations with depressive symptoms and stress: evidence from students at a university in Finland,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7195227.v1,figshare.ars,2024,Collection,Clusters of lifestyle behavioral risk factors and their associations with depressive symptoms and stress: evidence from students at a university in Finland,figshare,0,1,0,1,0
+10.6084/m9.figshare.26742029,figshare.ars,2024,Text,"Additional file 1 of Experiences from patients in mental healthcare accessing their electronic health records: results from a cross-national survey in Estonia, Finland, Norway, and Sweden",figshare,0,1,0,1,0
+10.6084/m9.figshare.26742029.v1,figshare.ars,2024,Text,"Additional file 1 of Experiences from patients in mental healthcare accessing their electronic health records: results from a cross-national survey in Estonia, Finland, Norway, and Sweden",figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7313074,figshare.ars,2024,Collection,"Experiences from patients in mental healthcare accessing their electronic health records: results from a cross-national survey in Estonia, Finland, Norway, and Sweden",figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7313074.v1,figshare.ars,2024,Collection,"Experiences from patients in mental healthcare accessing their electronic health records: results from a cross-national survey in Estonia, Finland, Norway, and Sweden",figshare,0,1,0,1,0
+10.13140/rg.2.2.14331.32801,rg.rg,2024,Text,Examination av stora studentgrupper - möjligheter och utmaningar - projektrapport,University of Skövde,1,0,0,1,0
+10.6084/m9.figshare.27123877,figshare.ars,2024,Text,"Additional file 1 of Association between socioeconomic position of the household head, food insecurity and psychological health: an application of propensity score matching",figshare,0,1,0,1,0
+10.6084/m9.figshare.27123877.v1,figshare.ars,2024,Text,"Additional file 1 of Association between socioeconomic position of the household head, food insecurity and psychological health: an application of propensity score matching",figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7470412,figshare.ars,2024,Collection,"Association between socioeconomic position of the household head, food insecurity and psychological health: an application of propensity score matching",figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7470412.v1,figshare.ars,2024,Collection,"Association between socioeconomic position of the household head, food insecurity and psychological health: an application of propensity score matching",figshare,0,1,0,1,0
+10.6084/m9.figshare.27208891,figshare.ars,2024,Text,Additional file 1 of Mechanisms for co-designing and co-producing health and social care: a realist synthesis,figshare,0,1,0,1,0
+10.6084/m9.figshare.27208891.v1,figshare.ars,2024,Text,Additional file 1 of Mechanisms for co-designing and co-producing health and social care: a realist synthesis,figshare,0,1,0,1,0
+10.6084/m9.figshare.27208894,figshare.ars,2024,Text,Additional file 2 of Mechanisms for co-designing and co-producing health and social care: a realist synthesis,figshare,0,1,0,1,0
+10.6084/m9.figshare.27208894.v1,figshare.ars,2024,Text,Additional file 2 of Mechanisms for co-designing and co-producing health and social care: a realist synthesis,figshare,0,1,0,1,0
+10.6084/m9.figshare.27208897,figshare.ars,2024,Dataset,Additional file 3 of Mechanisms for co-designing and co-producing health and social care: a realist synthesis,figshare,0,1,0,1,0
+10.6084/m9.figshare.27208897.v1,figshare.ars,2024,Dataset,Additional file 3 of Mechanisms for co-designing and co-producing health and social care: a realist synthesis,figshare,0,1,0,1,0
+10.6084/m9.figshare.27208900,figshare.ars,2024,Text,Additional file 4 of Mechanisms for co-designing and co-producing health and social care: a realist synthesis,figshare,0,1,0,1,0
+10.6084/m9.figshare.27208900.v1,figshare.ars,2024,Text,Additional file 4 of Mechanisms for co-designing and co-producing health and social care: a realist synthesis,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7489381,figshare.ars,2024,Collection,Mechanisms for co-designing and co-producing health and social care: a realist synthesis,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7489381.v1,figshare.ars,2024,Collection,Mechanisms for co-designing and co-producing health and social care: a realist synthesis,figshare,0,1,0,1,0
+10.6084/m9.figshare.27501952,figshare.ars,2024,Text,Additional file 1 of Unscheduled home consultations by registered nurses may reduce acute clinic visits,figshare,0,1,0,1,0
+10.6084/m9.figshare.27501952.v1,figshare.ars,2024,Text,Additional file 1 of Unscheduled home consultations by registered nurses may reduce acute clinic visits,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7521652,figshare.ars,2024,Collection,Unscheduled home consultations by registered nurses may reduce acute clinic visits,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7521652.v1,figshare.ars,2024,Collection,Unscheduled home consultations by registered nurses may reduce acute clinic visits,figshare,0,1,0,1,0
+10.6084/m9.figshare.27641265,figshare.ars,2024,Text,Additional file 1 of Health promoting resources and lifestyle factors among higher education students in healthcare and social work programmes: a survey with a longitudinal multicentre design,figshare,0,1,0,1,0
+10.6084/m9.figshare.27641265.v1,figshare.ars,2024,Text,Additional file 1 of Health promoting resources and lifestyle factors among higher education students in healthcare and social work programmes: a survey with a longitudinal multicentre design,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7531914,figshare.ars,2024,Collection,Health promoting resources and lifestyle factors among higher education students in healthcare and social work programmes: a survey with a longitudinal multicentre design,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7531914.v1,figshare.ars,2024,Collection,Health promoting resources and lifestyle factors among higher education students in healthcare and social work programmes: a survey with a longitudinal multicentre design,figshare,0,1,0,1,0
+10.5878/68mj-8k45,snd.snd,2024,Dataset,"Data for Freshwater mollusc community screening - classical and eDNA monitoring to detect rare, indicator and invasive species",University of Skövde,1,1,0,1,0
+10.5878/7e2j-a776,snd.snd,2024,Dataset,"Data for Freshwater mollusc community screening - classical and eDNA monitoring to detect rare, indicator and invasive species",University of Skövde,1,1,0,0,1
+10.5281/zenodo.14655748,cern.zenodo,2025,Text,D2.3 – Innovative Teaching Concept on Standardisation – Use Guide for Standardisation Education,Zenodo,0,0,1,0,1
+10.5281/zenodo.14655749,cern.zenodo,2024,Text,D2.3 – Innovative Teaching Concept on Standardisation – Use Guide for Standardisation Education,Zenodo,0,0,1,1,0
+10.48723/fr58-f782,vkoc.doris,2025,Dataset,Transcriptomics profiling of human PSC cultured under different conditions,Karolinska Institutet,0,0,1,1,0
+10.48723/0a55-ab34,vkoc.doris,2025,Dataset,Transcriptomics profiling of human PSC cultured under different conditions,Karolinska Institutet,0,0,1,0,1
+10.5281/zenodo.14774013,cern.zenodo,2024,ConferenceProceeding,Comparative Analysis of Sustainability Reporting Methodologies in European Urban Areas,Zenodo,0,1,0,0,1
+10.5281/zenodo.14774014,cern.zenodo,2024,ConferenceProceeding,Comparative Analysis of Sustainability Reporting Methodologies in European Urban Areas,Zenodo,0,1,0,1,0
+10.6084/m9.figshare.28356891,figshare.ars,2025,Text,Additional file 1 of Pain assessment and management of adult patients in the Swedish EMS: a nationwide registry study,figshare,0,1,0,1,0
+10.6084/m9.figshare.28356891.v1,figshare.ars,2025,Text,Additional file 1 of Pain assessment and management of adult patients in the Swedish EMS: a nationwide registry study,figshare,0,1,0,1,0
+10.6084/m9.figshare.28356894,figshare.ars,2025,Dataset,Additional file 2 of Pain assessment and management of adult patients in the Swedish EMS: a nationwide registry study,figshare,0,1,0,1,0
+10.6084/m9.figshare.28356894.v1,figshare.ars,2025,Dataset,Additional file 2 of Pain assessment and management of adult patients in the Swedish EMS: a nationwide registry study,figshare,0,1,0,1,0
+10.6084/m9.figshare.28356897,figshare.ars,2025,Dataset,Additional file 3 of Pain assessment and management of adult patients in the Swedish EMS: a nationwide registry study,figshare,0,1,0,1,0
+10.6084/m9.figshare.28356897.v1,figshare.ars,2025,Dataset,Additional file 3 of Pain assessment and management of adult patients in the Swedish EMS: a nationwide registry study,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7660395,figshare.ars,2025,Collection,Pain assessment and management of adult patients in the Swedish EMS: a nationwide registry study,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7660395.v1,figshare.ars,2025,Collection,Pain assessment and management of adult patients in the Swedish EMS: a nationwide registry study,figshare,0,1,0,1,0
+10.5281/zenodo.14850705,cern.zenodo,2025,Text,D2.3 – Innovative Teaching Concept on Standardisation – Use Guide for Standardisation Education,Zenodo,0,0,1,1,0
+10.6084/m9.figshare.28521300,figshare.ars,2025,Text,Additional file 1 of Unraveling the role of early coeliac disease diagnosis in the risk of developing immune-mediated renal diseases,figshare,0,1,0,1,0
+10.6084/m9.figshare.28521300.v1,figshare.ars,2025,Text,Additional file 1 of Unraveling the role of early coeliac disease diagnosis in the risk of developing immune-mediated renal diseases,figshare,0,1,0,1,0
+10.6084/m9.figshare.28521303,figshare.ars,2025,Text,Additional file 2 of Unraveling the role of early coeliac disease diagnosis in the risk of developing immune-mediated renal diseases,figshare,0,1,0,1,0
+10.6084/m9.figshare.28521303.v1,figshare.ars,2025,Text,Additional file 2 of Unraveling the role of early coeliac disease diagnosis in the risk of developing immune-mediated renal diseases,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7699905,figshare.ars,2025,Collection,Unraveling the role of early coeliac disease diagnosis in the risk of developing immune-mediated renal diseases,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7699905.v1,figshare.ars,2025,Collection,Unraveling the role of early coeliac disease diagnosis in the risk of developing immune-mediated renal diseases,figshare,0,1,0,1,0
+10.6084/m9.figshare.28551721,figshare.ars,2025,Text,Additional file 1 of The CGA1-SNAT regulatory module potentially contributes to cytokinin-mediated melatonin biosynthesis and drought tolerance in wheat,figshare,0,1,0,1,0
+10.6084/m9.figshare.28551721.v1,figshare.ars,2025,Text,Additional file 1 of The CGA1-SNAT regulatory module potentially contributes to cytokinin-mediated melatonin biosynthesis and drought tolerance in wheat,figshare,0,1,0,1,0
+10.6084/m9.figshare.28551724,figshare.ars,2025,Dataset,Additional file 2 of The CGA1-SNAT regulatory module potentially contributes to cytokinin-mediated melatonin biosynthesis and drought tolerance in wheat,figshare,0,1,0,1,0
+10.6084/m9.figshare.28551724.v1,figshare.ars,2025,Dataset,Additional file 2 of The CGA1-SNAT regulatory module potentially contributes to cytokinin-mediated melatonin biosynthesis and drought tolerance in wheat,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7708018.v1,figshare.ars,2025,Collection,The CGA1-SNAT regulatory module potentially contributes to cytokinin-mediated melatonin biosynthesis and drought tolerance in wheat,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7708018,figshare.ars,2025,Collection,The CGA1-SNAT regulatory module potentially contributes to cytokinin-mediated melatonin biosynthesis and drought tolerance in wheat,figshare,0,1,0,1,0
+10.5281/zenodo.15042376,cern.zenodo,2025,Report,Interdisciplinary Knowledge Framework: Report of the Activity 2 of the ENRICH Project,Zenodo,0,1,0,0,1
+10.5281/zenodo.15042377,cern.zenodo,2025,Report,Interdisciplinary Knowledge Framework: Report of the Activity 2 of the ENRICH Project,Zenodo,0,1,0,1,0
+10.6084/m9.figshare.29085763,figshare.ars,2025,Text,Additional file 1 of Building trusting relationships while worrying about doing the wrong thing - a qualitative content analysis study on Swedish school nurses experiences of meeting students with trans experiences,figshare,0,1,0,1,0
+10.6084/m9.figshare.29085763.v1,figshare.ars,2025,Text,Additional file 1 of Building trusting relationships while worrying about doing the wrong thing - a qualitative content analysis study on Swedish school nurses experiences of meeting students with trans experiences,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7823227,figshare.ars,2025,Collection,Building trusting relationships while worrying about doing the wrong thing - a qualitative content analysis study on Swedish school nurses experiences of meeting students with trans experiences,figshare,0,1,0,1,0
+10.6084/m9.figshare.c.7823227.v1,figshare.ars,2025,Collection,Building trusting relationships while worrying about doing the wrong thing - a qualitative content analysis study on Swedish school nurses experiences of meeting students with trans experiences,figshare,0,1,0,1,0
+10.5281/zenodo.15552367,cern.zenodo,2025,Text,D3.1 - Pilot Design Report,Zenodo,0,0,1,1,0
+10.5281/zenodo.15552366,cern.zenodo,2025,Text,D3.1 - Pilot Design Report,Zenodo,0,0,1,0,1
+10.5281/zenodo.15743709,cern.zenodo,2025,Text,The Munster Statement on the Principles of Research Ethics and Research Integrity,Zenodo,0,0,1,0,1
+10.5281/zenodo.15743710,cern.zenodo,2025,Text,The Munster Statement on the Principles of Research Ethics and Research Integrity,Zenodo,0,0,1,1,0
+10.5878/qe0c-kb63,snd.snd,2025,Dataset,Data for: Coverage of Web Accessibility Guidelines Provided by Automated Checking Tools,University of Skövde,1,1,0,1,0
+10.5878/xr5x-zs24,snd.snd,2025,Dataset,Data for: Coverage of Web Accessibility Guidelines Provided by Automated Checking Tools,University of Skövde,1,1,0,0,0
+10.6084/m9.figshare.30016079,figshare.ars,2025,Text,"Additional file 1 of Item response theory modelling of the trait emotional intelligence questionnaire-short form: item streamlining, differential item functioning, and validity in a Swedish multicenter cross-sectional study",figshare,0,1,0,1,0
+10.6084/m9.figshare.30016079.v1,figshare.ars,2025,Text,"Additional file 1 of Item response theory modelling of the trait emotional intelligence questionnaire-short form: item streamlining, differential item functioning, and validity in a Swedish multicenter cross-sectional study",figshare,0,1,0,1,0
+10.6084/m9.figshare.c.8008292,figshare.ars,2025,Collection,"Item response theory modelling of the trait emotional intelligence questionnaire-short form: item streamlining, differential item functioning, and validity in a Swedish multicenter cross-sectional study",figshare,0,1,0,1,0
+10.6084/m9.figshare.c.8008292.v1,figshare.ars,2025,Collection,"Item response theory modelling of the trait emotional intelligence questionnaire-short form: item streamlining, differential item functioning, and validity in a Swedish multicenter cross-sectional study",figshare,0,1,0,1,0

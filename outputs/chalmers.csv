@@ -3623,7 +3623,7 @@ doi,clientId,publicationYear,resourceType,title,publisher,isPublisher,haveCreato
 10.5281/zenodo.16795903,cern.zenodo,2025,Software,firedrakeproject/fiat: FIAT: the Finite Element Automated Tabulator,Zenodo,0,1,0,1,0
 10.5281/zenodo.16805881,cern.zenodo,2025,Dataset,Revealing the Low Temperature Phase of FAPbI3 using A Machine-Learned Potential - Datasets,Zenodo,0,1,0,1,0
 10.5281/zenodo.16806522,cern.zenodo,2025,Software,easyscience/diffraction-lib: easydiffraction 0.5.3,Zenodo,0,1,0,1,0
-10.5281/zenodo.16806521,cern.zenodo,2025,Software,easyscience/diffraction-lib: easydiffraction 0.6.1,Zenodo,0,1,0,0,1
+10.5281/zenodo.16806521,cern.zenodo,2025,Software,easyscience/diffraction-lib: easydiffraction 0.7.1,Zenodo,0,1,0,0,1
 10.5281/zenodo.16807014,cern.zenodo,2025,Software,easyscience/diffraction-lib: easydiffraction 0.5.4,Zenodo,0,1,0,1,0
 10.5281/zenodo.16808297,cern.zenodo,2025,Software,easyscience/diffraction-lib: easydiffraction 0.5.5,Zenodo,0,1,0,1,0
 10.5281/zenodo.16794871,cern.zenodo,2025,Dataset,FlowSense Traffic Flows - estimated from vehicle trajectories based on sparse mobile phone geolocation data,Zenodo,0,1,0,1,0
@@ -3679,3 +3679,5 @@ doi,clientId,publicationYear,resourceType,title,publisher,isPublisher,haveCreato
 10.5281/zenodo.16994094,cern.zenodo,2025,Software,Endangered Privacy: Large-Scale Monitoring of Video Streaming Services -- USENIX Security 2025 Artifact,Zenodo,0,1,0,1,0
 10.5281/zenodo.16992249,cern.zenodo,2025,Text,D3.2 Evidence-based policy and Public Administration training final report,Zenodo,0,0,1,0,0
 10.5281/zenodo.16992250,cern.zenodo,2025,Text,D3.2 Evidence-based policy and Public Administration training final report,Zenodo,0,0,1,1,0
+10.5281/zenodo.17009837,cern.zenodo,2025,Software,easyscience/diffraction-lib: easydiffraction 0.7.0,Zenodo,0,1,0,1,0
+10.5281/zenodo.17013819,cern.zenodo,2025,Software,easyscience/diffraction-lib: easydiffraction 0.7.1,Zenodo,0,1,0,1,0
