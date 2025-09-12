@@ -31,3 +31,11 @@ while IFS=$'\t' read -r -a cols || [ -n "${cols[*]}" ]; do
         python3 ./research-output-aggregator/src/roagg/cli.py --ror "$org_ror" --output "outputs/$org_slug.csv"
     fi
 done < "$TSV"
+
+echo "Add clientName and clientType to all files"
+python3 ./scripts/add_datacite_clients_info.py
+
+echo "Combine all outputs into combined-outputs.csv"
+sh combine_outputs.sh
+
+echo "All done!"
