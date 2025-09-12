@@ -27,7 +27,9 @@ const gridOptions = {
     { field: "publisher", filter: true, floatingFilter: true  },
     { field: "isPublisher", filter: true, floatingFilter: true  },
     { field: "isLatestVersion", filter: true, floatingFilter: true  },
-    { field: "isConceptDoi", filter: true, floatingFilter: true  }
+    { field: "isConceptDoi", filter: true, floatingFilter: true  },
+    { field: "createdAt", filter: true, floatingFilter: true  },
+    { field: "updatedAt", filter: true, floatingFilter: true  }
   ],
   defaultColDef: {
     flex: 1,
