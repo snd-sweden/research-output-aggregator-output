@@ -144,7 +144,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function loadOrgCsv(slug) {
     const path = `outputs/${slug}.csv`;
-    fetchTextFile(path)
+    fetchTextFile(`${path}?v=${Date.now()}`) // Cache busting
         .then(csv => {
             const jsonArray = csvStringToJsonArray(csv);
             gridApi.setGridOption('rowData', jsonArray);
