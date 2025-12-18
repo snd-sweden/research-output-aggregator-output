@@ -2,10 +2,10 @@
 
 # Clone the roagg repository if not present
 if [ ! -d "roagg" ]; then
-    echo "Directory roagg not found, cloning repository..."
+    echo "📥Directory roagg not found, cloning repository..."
     git clone https://github.com/snd-sweden/roagg roagg
 else
-    echo "Directory roagg exists, pulling latest changes..."
+    echo "🔃Directory roagg exists, pulling latest changes..."
     cd roagg && git pull && pip install . && cd ..
 fi
 
@@ -27,22 +27,24 @@ while IFS=$'\t' read -r -a cols || [ -n "${cols[*]}" ]; do
     name_txt="roagg/tests/name-lists/$org_slug.txt"
     output_file="outputs/$org_slug.csv"
 
+    echo "════════════════════════════════════════════════════════"
+
     if [ -f "$name_txt" ]; then
-        echo "Processing ROR+TXT for $org_slug ($org_name_en) ROR: $org_ror"
+        echo "⏳Processing ROR+TXT for 🏛️$org_slug ($org_name_en) ROR: $org_ror"
         roagg --ror "$org_ror" --name-txt "$name_txt" --output "$output_file"
     else
-        echo "Processing ROR for $org_slug ($org_name_en) ROR: $org_ror"
+        echo "⏳Processing ROR for 🏛️$org_slug ($org_name_en) ROR: $org_ror"
         roagg --ror "$org_ror" --output "$output_file"
     fi
     
-    echo "Sleeping for 3 minutes to avoid rate limiting..."
-    sleep 180
+    echo "💤Sleeping for 1 minute to avoid rate limiting..."
+    sleep 60
 done < "$TSV"
 
-echo "Add clientName and clientType to all files"
+echo "🏷️Add clientName and clientType to all files"
 python3 ./scripts/add_datacite_clients_info.py
 
-echo "Combine all outputs into combined-outputs.csv"
+echo "📦Combine all outputs into combined-outputs.csv"
 sh ./combine_outputs.sh
 
-echo "All done!"
+echo "✅ All done!"
