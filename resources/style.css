@@ -25,6 +25,11 @@ overflow: auto;
 background-color: transparent;
 }
 
+#myGrid {
+width: 100%;
+height: 100%;
+}
+
 /* Hide codesandbox highlighter */
 body > #highlighter {
 display: none;

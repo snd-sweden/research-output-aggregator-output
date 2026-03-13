@@ -60,6 +60,30 @@ function fetchTextFile(path) {
     });
 }
 
+function downloadCsvFile(csv, filename) {
+    const blob = new Blob([csv], { type: 'text/csv' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+}
+
+function downloadXlsxFile(csv, filename) {
+    const rows = Papa.parse(csv, {
+        skipEmptyLines: true
+    }).data;
+
+    const worksheet = XLSX.utils.aoa_to_sheet(rows);
+    const workbook = XLSX.utils.book_new();
+
+    XLSX.utils.book_append_sheet(workbook, worksheet, 'Data');
+    XLSX.writeFile(workbook, filename);
+}
+
 document.addEventListener('DOMContentLoaded', function() {
     // Load organisations.tsv and populate dropdown
     fetchTextFile('resources/organisations.tsv').then(tsv => {
@@ -68,6 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
         orgs.sort((a, b) => a.name_en.localeCompare(b.name_en, 'sv-SE'));
         const select = document.getElementById('orgSelect');
         const downloadBtn = document.getElementById('downloadCsvBtn');
+        const downloadXlsxBtn = document.getElementById('downloadXlsxBtn');
         orgs.forEach(org => {
             const opt = document.createElement('option');
             opt.value = org.slug;
@@ -124,18 +149,23 @@ document.addEventListener('DOMContentLoaded', function() {
             const path = `outputs/${slug}.csv`;
             fetchTextFile(path)
                 .then(csv => {
-                    const blob = new Blob([csv], { type: 'text/csv' });
-                    const url = URL.createObjectURL(blob);
-                    const a = document.createElement('a');
-                    a.href = url;
-                    a.download = `${slug}.csv`;
-                    document.body.appendChild(a);
-                    a.click();
-                    document.body.removeChild(a);
-                    URL.revokeObjectURL(url);
+                    downloadCsvFile(csv, `${slug}.csv`);
                 })
                 .catch(err => {
                     alert('Could not download CSV for ' + slug + ': ' + err.message);
+                }
+            );
+        });
+
+        downloadXlsxBtn.addEventListener('click', function() {
+            const slug = select.value;
+            const path = `outputs/${slug}.csv`;
+            fetchTextFile(path)
+                .then(csv => {
+                    downloadXlsxFile(csv, `${slug}.xlsx`);
+                })
+                .catch(err => {
+                    alert('Could not download XLSX for ' + slug + ': ' + err.message);
                 }
             );
         });
@@ -149,6 +179,7 @@ function loadOrgCsv(slug) {
             const jsonArray = csvStringToJsonArray(csv);
             gridApi.setGridOption('rowData', jsonArray);
             document.getElementById('downloadCsvBtnLabel').textContent = `Download ${slug}.csv`;
+            document.getElementById('downloadXlsxBtnLabel').textContent = `Download ${slug}.xlsx`;
         })
         .catch(err => {
             gridApi.setGridOption('rowData', []);
