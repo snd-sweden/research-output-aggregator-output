@@ -44,7 +44,10 @@ done < "$TSV"
 echo "🏷️Add clientName and clientType to all files"
 python3 ./scripts/add_datacite_clients_info.py
 
-echo "📦Combine all outputs into combined-outputs.csv"
-sh ./combine_outputs.sh
+echo "📦Create aggregated outputs (aggregated-outputs.csv)"
+python3 ./scripts/create_aggregated.py
+
+echo "📦Combine all outputs into (combined-outputs.csv)"
+sh ./combine-outputs.sh
 
 echo "✅ All done!"
