@@ -61,9 +61,52 @@
         </button>
       </div>
     </div>
-    <p>
-      <div id="myGrid"></div>
-    </p>
+    <ul class="nav nav-tabs mb-3" id="viewTabs">
+      <li class="nav-item">
+        <button class="nav-link active" id="grid-tab" data-bs-toggle="tab" data-bs-target="#grid-pane" type="button" aria-controls="grid-pane">
+          Grid
+        </button>
+      </li>
+      <li class="nav-item">
+        <button class="nav-link" id="statistics-tab" data-bs-toggle="tab" data-bs-target="#statistics-pane" type="button" aria-controls="statistics-pane">
+          Statistics
+        </button>
+      </li>
+    </ul>
+
+    <div class="tab-content" id="viewTabsContent">
+      <div class="tab-pane fade show active" id="grid-pane" aria-labelledby="grid-tab">
+        <div id="myGrid"></div>
+      </div>
+      <div class="tab-pane fade" id="statistics-pane" aria-labelledby="statistics-tab">
+        <section class="statistics-section">
+          <div class="chart-panel mb-3">
+            <h3 class="h6 mb-2">Resources per Publication Year</h3>
+            <div class="chart-wrap">
+              <canvas id="publicationYearBarChart"></canvas>
+            </div>
+          </div>
+          <div class="row g-3">
+            <div class="col-12 col-xl-8">
+              <div class="chart-panel">
+                <h3 class="h6 mb-2">Counts by Resource Type</h3>
+                <div class="chart-wrap">
+                  <canvas id="resourceTypeBarChart"></canvas>
+                </div>
+              </div>
+            </div>
+            <div class="col-12 col-xl-4">
+              <div class="chart-panel">
+                <h3 class="h6 mb-2">Distribution</h3>
+                <div class="chart-wrap chart-wrap-pie">
+                  <canvas id="resourceTypePieChart"></canvas>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
     
     <script>
       (function () {
@@ -75,6 +118,8 @@
     <script src="https://cdn.jsdelivr.net/npm/ag-grid-community@34.1.2/dist/ag-grid-community.min.js?t=1755787214249"></script>
     <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.8/dist/chart.umd.min.js"></script>
     <script src="resources/main.js"></script>
   </body>
 </html>

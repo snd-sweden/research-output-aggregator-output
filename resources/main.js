@@ -2,6 +2,9 @@
 
 // Grid API: Access to Grid API methods
 let gridApi;
+let resourceTypeBarChart;
+let resourceTypePieChart;
+let publicationYearBarChart;
 
 // Grid Options: Contains all of the grid configurations
 const gridOptions = {
@@ -84,6 +87,167 @@ function downloadXlsxFile(csv, filename) {
     XLSX.writeFile(workbook, filename);
 }
 
+function getResourceTypeCounts(rows) {
+    const counts = new Map();
+
+    rows.forEach(row => {
+        const rawValue = row.resourceType;
+        const key = (typeof rawValue === 'string' && rawValue.trim() !== '') ? rawValue.trim() : 'Unknown';
+        counts.set(key, (counts.get(key) || 0) + 1);
+    });
+
+    return [...counts.entries()].sort((a, b) => b[1] - a[1]);
+}
+
+function getPublicationYearCounts(rows) {
+    const counts = new Map();
+
+    rows.forEach(row => {
+        const rawValue = row.publicationYear;
+        const key = (typeof rawValue === 'string' || typeof rawValue === 'number')
+            ? String(rawValue).trim()
+            : '';
+        const normalizedKey = key !== '' ? key : 'Unknown';
+        counts.set(normalizedKey, (counts.get(normalizedKey) || 0) + 1);
+    });
+
+    return [...counts.entries()].sort((a, b) => {
+        const aNum = Number(a[0]);
+        const bNum = Number(b[0]);
+        const aIsNumber = Number.isFinite(aNum);
+        const bIsNumber = Number.isFinite(bNum);
+
+        if (aIsNumber && bIsNumber) return aNum - bNum;
+        if (aIsNumber) return -1;
+        if (bIsNumber) return 1;
+        return a[0].localeCompare(b[0]);
+    });
+}
+
+function paletteFor(length) {
+    const base = [
+        '#1e3963', '#3498db', '#85b9de', '#2f855a', '#f59e0b', '#e11d48',
+        '#6d28d9', '#0f766e', '#b45309', '#475569', '#0369a1', '#15803d'
+    ];
+    const colors = [];
+
+    for (let i = 0; i < length; i += 1) {
+        colors.push(base[i % base.length]);
+    }
+
+    return colors;
+}
+
+function updateResourceTypeCharts(rows) {
+    const barCanvas = document.getElementById('resourceTypeBarChart');
+    const pieCanvas = document.getElementById('resourceTypePieChart');
+    const publicationYearCanvas = document.getElementById('publicationYearBarChart');
+
+    if (!barCanvas || !pieCanvas || !publicationYearCanvas || typeof Chart === 'undefined') {
+        return;
+    }
+
+    const publicationYearCounts = getPublicationYearCounts(rows);
+    const publicationYearLabels = publicationYearCounts.map(item => item[0]);
+    const publicationYearValues = publicationYearCounts.map(item => item[1]);
+
+    if (publicationYearBarChart) {
+        publicationYearBarChart.destroy();
+    }
+    publicationYearBarChart = new Chart(publicationYearCanvas, {
+        type: 'bar',
+        data: {
+            labels: publicationYearLabels,
+            datasets: [{
+                label: 'Outputs',
+                data: publicationYearValues,
+                backgroundColor: '#1e3963',
+                borderWidth: 0
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: {
+                    display: false
+                }
+            },
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    ticks: {
+                        precision: 0
+                    }
+                }
+            }
+        }
+    });
+
+    const counts = getResourceTypeCounts(rows);
+    const labels = counts.map(item => item[0]);
+    const values = counts.map(item => item[1]);
+    const colors = paletteFor(labels.length);
+
+    if (resourceTypeBarChart) {
+        resourceTypeBarChart.destroy();
+    }
+    resourceTypeBarChart = new Chart(barCanvas, {
+        type: 'bar',
+        data: {
+            labels,
+            datasets: [{
+                label: 'Outputs',
+                data: values,
+                backgroundColor: colors,
+                borderWidth: 0
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: {
+                    display: false
+                }
+            },
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    ticks: {
+                        precision: 0
+                    }
+                }
+            }
+        }
+    });
+
+    if (resourceTypePieChart) {
+        resourceTypePieChart.destroy();
+    }
+    resourceTypePieChart = new Chart(pieCanvas, {
+        type: 'doughnut',
+        data: {
+            labels,
+            datasets: [{
+                data: values,
+                backgroundColor: colors,
+                borderWidth: 1,
+                borderColor: '#ffffff'
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: {
+                    position: 'bottom'
+                }
+            }
+        }
+    });
+}
+
 document.addEventListener('DOMContentLoaded', function() {
     // Load organisations.tsv and populate dropdown
     fetchTextFile('resources/organisations.tsv').then(tsv => {
@@ -93,6 +257,16 @@ document.addEventListener('DOMContentLoaded', function() {
         const select = document.getElementById('orgSelect');
         const downloadBtn = document.getElementById('downloadCsvBtn');
         const downloadXlsxBtn = document.getElementById('downloadXlsxBtn');
+        const gridTab = document.getElementById('grid-tab');
+
+        if (gridTab) {
+            gridTab.addEventListener('shown.bs.tab', function() {
+                if (gridApi) {
+                    gridApi.sizeColumnsToFit();
+                }
+            });
+        }
+
         orgs.forEach(org => {
             const opt = document.createElement('option');
             opt.value = org.slug;
@@ -178,11 +352,13 @@ function loadOrgCsv(slug) {
         .then(csv => {
             const jsonArray = csvStringToJsonArray(csv);
             gridApi.setGridOption('rowData', jsonArray);
+            updateResourceTypeCharts(jsonArray);
             document.getElementById('downloadCsvBtnLabel').textContent = `Download ${slug}.csv`;
             document.getElementById('downloadXlsxBtnLabel').textContent = `Download ${slug}.xlsx`;
         })
         .catch(err => {
             gridApi.setGridOption('rowData', []);
+            updateResourceTypeCharts([]);
             alert('Could not load CSV "' + slug + '.csv": ' + err.message);
         });
 }
